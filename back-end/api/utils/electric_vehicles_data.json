@@ -1,0 +1,7021 @@
+{
+  "data": [
+    {
+      "id": "a9a177bf-9ce5-4b67-b3ef-51af248b48c2",
+      "brand": "Audi",
+      "type": "bev",
+      "brand_id": "89c2668c-0c50-4344-9386-93e4000f7673",
+      "model": "e-tron 55",
+      "release_year": 2019,
+      "variant": "",
+      "usable_battery_size": 86.5,
+      "ac_charger": {
+        "usable_phases": 3,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 11.0,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.4,
+          "11": 11.0,
+          "16": 11.0,
+          "22": 11.0,
+          "43": 11.0
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs"
+        ],
+        "max_power": 155,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 137
+          },
+          {
+            "percentage": 70,
+            "power": 155
+          },
+          {
+            "percentage": 72,
+            "power": 150
+          },
+          {
+            "percentage": 78,
+            "power": 120
+          },
+          {
+            "percentage": 82,
+            "power": 105
+          },
+          {
+            "percentage": 100,
+            "power": 50
+          }
+        ],
+        "is_default_charging_curve": false
+      },
+      "energy_consumption": {
+        "average_consumption": 23.4
+      }
+    },
+    {
+      "id": "27d7610e-9a77-498a-b1b5-28d4bc92cbf2",
+      "brand": "Audi",
+      "type": "bev",
+      "brand_id": "89c2668c-0c50-4344-9386-93e4000f7673",
+      "model": "e-tron 55",
+      "release_year": 2019,
+      "variant": "22kW-AC",
+      "usable_battery_size": 86.5,
+      "ac_charger": {
+        "usable_phases": 3,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 22.0,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.4,
+          "11": 11.100000000000001,
+          "16": 16.200000000000003,
+          "22": 22.0,
+          "43": 22.0
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs"
+        ],
+        "max_power": 155,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 137
+          },
+          {
+            "percentage": 70,
+            "power": 155
+          },
+          {
+            "percentage": 72,
+            "power": 150
+          },
+          {
+            "percentage": 78,
+            "power": 120
+          },
+          {
+            "percentage": 82,
+            "power": 105
+          },
+          {
+            "percentage": 100,
+            "power": 50
+          }
+        ],
+        "is_default_charging_curve": false
+      },
+      "energy_consumption": {
+        "average_consumption": 23.4
+      }
+    },
+    {
+      "id": "c6a6bd26-6a8f-4ab7-baf3-6cfa057044e3",
+      "brand": "Audi",
+      "type": "bev",
+      "brand_id": "89c2668c-0c50-4344-9386-93e4000f7673",
+      "model": "e-tron 50",
+      "release_year": 2019,
+      "variant": "",
+      "usable_battery_size": 65.0,
+      "ac_charger": {
+        "usable_phases": 3,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 11.0,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.4,
+          "11": 11.0,
+          "16": 11.0,
+          "22": 11.0,
+          "43": 11.0
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs"
+        ],
+        "max_power": 125.0,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 118
+          },
+          {
+            "percentage": 75,
+            "power": 125.0
+          },
+          {
+            "percentage": 100,
+            "power": 11.0
+          }
+        ],
+        "is_default_charging_curve": true
+      },
+      "energy_consumption": {
+        "average_consumption": 22.7
+      }
+    },
+    {
+      "id": "059c028d-b2a6-4a8d-947a-158c7537b290",
+      "brand": "Audi",
+      "type": "bev",
+      "brand_id": "89c2668c-0c50-4344-9386-93e4000f7673",
+      "model": "e-tron 50",
+      "release_year": 2019,
+      "variant": "22kW-AC",
+      "usable_battery_size": 65.0,
+      "ac_charger": {
+        "usable_phases": 3,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 22.0,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.4,
+          "11": 11.100000000000001,
+          "16": 16.200000000000003,
+          "22": 22.0,
+          "43": 22.0
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs"
+        ],
+        "max_power": 125.0,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 118
+          },
+          {
+            "percentage": 75,
+            "power": 125.0
+          },
+          {
+            "percentage": 100,
+            "power": 22.0
+          }
+        ],
+        "is_default_charging_curve": true
+      },
+      "energy_consumption": {
+        "average_consumption": 22.7
+      }
+    },
+    {
+      "id": "c8e05c0b-05c0-4aac-9f12-35a6a3687e10",
+      "brand": "Audi",
+      "type": "phev",
+      "brand_id": "89c2668c-0c50-4344-9386-93e4000f7673",
+      "model": "A3 Sportback 40 e-tron",
+      "release_year": 2020,
+      "variant": "",
+      "usable_battery_size": 8.8,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 3.7,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 3.7,
+          "11": 3.7,
+          "16": 3.7,
+          "22": 3.7,
+          "43": 3.7
+        }
+      },
+      "dc_charger": null,
+      "energy_consumption": {
+        "average_consumption": 12.4
+      }
+    },
+    {
+      "id": "e67dc450-d658-4bee-bd0f-a750d445b2f9",
+      "brand": "BMW",
+      "type": "bev",
+      "brand_id": "0742668c-bf59-4191-890e-2b0883508808",
+      "model": "i3",
+      "release_year": null,
+      "variant": "60 Ah",
+      "usable_battery_size": 18.8,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 7.4,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.4,
+          "11": 3.7,
+          "16": 5.4,
+          "22": 7.4,
+          "43": 7.4
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs"
+        ],
+        "max_power": 47,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 43
+          },
+          {
+            "percentage": 30,
+            "power": 47
+          },
+          {
+            "percentage": 33,
+            "power": 44
+          },
+          {
+            "percentage": 62,
+            "power": 44
+          },
+          {
+            "percentage": 100,
+            "power": 3
+          }
+        ],
+        "is_default_charging_curve": false
+      },
+      "energy_consumption": {
+        "average_consumption": 14.5
+      }
+    },
+    {
+      "id": "0ec3f440-136c-49f1-8917-c629a27146c7",
+      "brand": "BMW",
+      "type": "bev",
+      "brand_id": "0742668c-bf59-4191-890e-2b0883508808",
+      "model": "i3",
+      "release_year": null,
+      "variant": "94 Ah",
+      "usable_battery_size": 27.2,
+      "ac_charger": {
+        "usable_phases": 3,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 11.0,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.4,
+          "11": 11.0,
+          "16": 11.0,
+          "22": 11.0,
+          "43": 11.0
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs"
+        ],
+        "max_power": 50,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 44
+          },
+          {
+            "percentage": 60,
+            "power": 46
+          },
+          {
+            "percentage": 80,
+            "power": 50
+          },
+          {
+            "percentage": 100,
+            "power": 3
+          }
+        ],
+        "is_default_charging_curve": false
+      },
+      "energy_consumption": {
+        "average_consumption": 16.0
+      }
+    },
+    {
+      "id": "dbf24ffc-3270-409b-b4da-ec386fa36657",
+      "brand": "BMW",
+      "type": "bev",
+      "brand_id": "0742668c-bf59-4191-890e-2b0883508808",
+      "model": "i3",
+      "release_year": null,
+      "variant": "120 Ah",
+      "usable_battery_size": 37.9,
+      "ac_charger": {
+        "usable_phases": 3,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 11.0,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.4,
+          "11": 11.0,
+          "16": 11.0,
+          "22": 11.0,
+          "43": 11.0
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs"
+        ],
+        "max_power": 50,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 44
+          },
+          {
+            "percentage": 85,
+            "power": 50
+          },
+          {
+            "percentage": 100,
+            "power": 3
+          }
+        ],
+        "is_default_charging_curve": false
+      },
+      "energy_consumption": {
+        "average_consumption": 16.1
+      }
+    },
+    {
+      "id": "4df1d4d6-f001-4d0a-b284-5ffc07e6ade2",
+      "brand": "BMW",
+      "type": "phev",
+      "brand_id": "0742668c-bf59-4191-890e-2b0883508808",
+      "model": "X5",
+      "release_year": 2020,
+      "variant": "PHEV",
+      "usable_battery_size": 21.0,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 3.7,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 3.7,
+          "11": 3.7,
+          "16": 3.7,
+          "22": 3.7,
+          "43": 3.7
+        }
+      },
+      "dc_charger": null,
+      "energy_consumption": {
+        "average_consumption": 21.3
+      }
+    },
+    {
+      "id": "45b68c71-cd11-4bd7-a03f-fdaae259635d",
+      "brand": "Citroen",
+      "type": "bev",
+      "brand_id": "3b3fc191-f4c3-45da-bc3b-21efbe1b264f",
+      "model": "C-Zero",
+      "release_year": null,
+      "variant": "",
+      "usable_battery_size": 14.5,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type1"
+        ],
+        "max_power": 3.6,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.6,
+          "7.4": 3.6,
+          "11": 3.6,
+          "16": 3.6,
+          "22": 3.6,
+          "43": 3.6
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "chademo"
+        ],
+        "max_power": 50.0,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 47
+          },
+          {
+            "percentage": 75,
+            "power": 50.0
+          },
+          {
+            "percentage": 100,
+            "power": 3.6
+          }
+        ],
+        "is_default_charging_curve": true
+      },
+      "energy_consumption": {
+        "average_consumption": 17.1
+      }
+    },
+    {
+      "id": "2f2b159b-9b03-450f-9818-c139323d1735",
+      "brand": "Fiat",
+      "type": "bev",
+      "brand_id": "3291e5ba-862c-49fa-8437-71105743875e",
+      "model": "500e",
+      "release_year": 2014,
+      "variant": "",
+      "usable_battery_size": 19.2,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type1"
+        ],
+        "max_power": 6.6,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 6.6,
+          "11": 3.7,
+          "16": 5.4,
+          "22": 6.6,
+          "43": 6.6
+        }
+      },
+      "dc_charger": null,
+      "energy_consumption": {
+        "average_consumption": 18.0
+      }
+    },
+    {
+      "id": "22f521ce-42ca-40d7-bfdb-5d33b1bd9cbe",
+      "brand": "Fiat",
+      "type": "bev",
+      "brand_id": "3291e5ba-862c-49fa-8437-71105743875e",
+      "model": "500e",
+      "release_year": 2020,
+      "variant": "",
+      "usable_battery_size": 42.0,
+      "ac_charger": {
+        "usable_phases": 3,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 11.0,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.4,
+          "11": 11.0,
+          "16": 11.0,
+          "22": 11.0,
+          "43": 11.0
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs"
+        ],
+        "max_power": 85.0,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 80
+          },
+          {
+            "percentage": 75,
+            "power": 85.0
+          },
+          {
+            "percentage": 100,
+            "power": 11.0
+          }
+        ],
+        "is_default_charging_curve": true
+      },
+      "energy_consumption": {
+        "average_consumption": 16.8
+      }
+    },
+    {
+      "id": "c0a26929-1157-4fb4-a999-4f172df9cad7",
+      "brand": "Ford",
+      "type": "bev",
+      "brand_id": "6cf9e9b6-28aa-44c7-b6c3-438d518ac12f",
+      "model": "Focus electric",
+      "release_year": 2017,
+      "variant": "",
+      "usable_battery_size": 33.5,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 6.6,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 6.6,
+          "11": 3.7,
+          "16": 5.4,
+          "22": 6.6,
+          "43": 6.6
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs"
+        ],
+        "max_power": 50.0,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 47
+          },
+          {
+            "percentage": 75,
+            "power": 50.0
+          },
+          {
+            "percentage": 100,
+            "power": 6.6
+          }
+        ],
+        "is_default_charging_curve": true
+      },
+      "energy_consumption": {
+        "average_consumption": 16.4
+      }
+    },
+    {
+      "id": "6cd5ba89-6523-4bca-9423-ea92227a8b8d",
+      "brand": "Ford",
+      "type": "bev",
+      "brand_id": "6cf9e9b6-28aa-44c7-b6c3-438d518ac12f",
+      "model": "Focus electric",
+      "release_year": 2013,
+      "variant": "",
+      "usable_battery_size": 23.0,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 6.6,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 6.6,
+          "11": 3.7,
+          "16": 5.4,
+          "22": 6.6,
+          "43": 6.6
+        }
+      },
+      "dc_charger": null,
+      "energy_consumption": {
+        "average_consumption": 16.4
+      }
+    },
+    {
+      "id": "6cc437e9-b842-4c1b-9c08-9ca2d46d22a9",
+      "brand": "Hyundai",
+      "type": "bev",
+      "brand_id": "9771afb8-9e25-4ae6-a5b3-b2a5b9f363f0",
+      "model": "Kona",
+      "release_year": 2018,
+      "variant": "39 kWh",
+      "usable_battery_size": 39.2,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 7.2,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.2,
+          "11": 3.7,
+          "16": 5.4,
+          "22": 7.2,
+          "43": 7.2
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs"
+        ],
+        "max_power": 50.0,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 47
+          },
+          {
+            "percentage": 75,
+            "power": 50.0
+          },
+          {
+            "percentage": 100,
+            "power": 7.2
+          }
+        ],
+        "is_default_charging_curve": true
+      },
+      "energy_consumption": {
+        "average_consumption": 15.4
+      }
+    },
+    {
+      "id": "e81564b0-46e3-41f6-b6a6-70370a37f685",
+      "brand": "Hyundai",
+      "type": "bev",
+      "brand_id": "9771afb8-9e25-4ae6-a5b3-b2a5b9f363f0",
+      "model": "Kona",
+      "release_year": 2020,
+      "variant": "39 kWh 11 kW-AC",
+      "usable_battery_size": 39.2,
+      "ac_charger": {
+        "usable_phases": 3,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 11.0,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.4,
+          "11": 11.0,
+          "16": 11.0,
+          "22": 11.0,
+          "43": 11.0
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs"
+        ],
+        "max_power": 50.0,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 47
+          },
+          {
+            "percentage": 75,
+            "power": 50.0
+          },
+          {
+            "percentage": 100,
+            "power": 11.0
+          }
+        ],
+        "is_default_charging_curve": true
+      },
+      "energy_consumption": {
+        "average_consumption": 15.4
+      }
+    },
+    {
+      "id": "c576bee8-8066-4174-bc69-5fe9f2e666ee",
+      "brand": "Hyundai",
+      "type": "bev",
+      "brand_id": "9771afb8-9e25-4ae6-a5b3-b2a5b9f363f0",
+      "model": "Ioniq",
+      "release_year": 2016,
+      "variant": "",
+      "usable_battery_size": 28.0,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 6.6,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 6.6,
+          "11": 3.7,
+          "16": 5.4,
+          "22": 6.6,
+          "43": 6.6
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs"
+        ],
+        "max_power": 69,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 60
+          },
+          {
+            "percentage": 76,
+            "power": 69
+          },
+          {
+            "percentage": 84,
+            "power": 23
+          },
+          {
+            "percentage": 92,
+            "power": 23
+          },
+          {
+            "percentage": 100,
+            "power": 10
+          }
+        ],
+        "is_default_charging_curve": false
+      },
+      "energy_consumption": {
+        "average_consumption": 14.4
+      }
+    },
+    {
+      "id": "3038b11b-2dfc-4f9f-b22c-4bfdc08d0c4b",
+      "brand": "Hyundai",
+      "type": "bev",
+      "brand_id": "9771afb8-9e25-4ae6-a5b3-b2a5b9f363f0",
+      "model": "Ioniq",
+      "release_year": 2019,
+      "variant": "",
+      "usable_battery_size": 38.3,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 7.2,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.2,
+          "11": 3.7,
+          "16": 5.4,
+          "22": 7.2,
+          "43": 7.2
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs"
+        ],
+        "max_power": 47.0,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 44
+          },
+          {
+            "percentage": 75,
+            "power": 47.0
+          },
+          {
+            "percentage": 100,
+            "power": 7.2
+          }
+        ],
+        "is_default_charging_curve": true
+      },
+      "energy_consumption": {
+        "average_consumption": 15.3
+      }
+    },
+    {
+      "id": "3667752d-17a5-4166-abaf-dcf227948bfd",
+      "brand": "Hyundai",
+      "type": "phev",
+      "brand_id": "9771afb8-9e25-4ae6-a5b3-b2a5b9f363f0",
+      "model": "Ioniq",
+      "release_year": 2016,
+      "variant": "PHEV",
+      "usable_battery_size": 8.9,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 3.7,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 3.7,
+          "11": 3.7,
+          "16": 3.7,
+          "22": 3.7,
+          "43": 3.7
+        }
+      },
+      "dc_charger": null,
+      "energy_consumption": {
+        "average_consumption": 15.4
+      }
+    },
+    {
+      "id": "8df35b23-dcc6-4590-83c7-5578da4c4809",
+      "brand": "Hyundai",
+      "type": "bev",
+      "brand_id": "9771afb8-9e25-4ae6-a5b3-b2a5b9f363f0",
+      "model": "Kona",
+      "release_year": 2018,
+      "variant": "64 kWh",
+      "usable_battery_size": 64.0,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 7.2,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.2,
+          "11": 3.7,
+          "16": 5.4,
+          "22": 7.2,
+          "43": 7.2
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs"
+        ],
+        "max_power": 77,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 70
+          },
+          {
+            "percentage": 40,
+            "power": 77
+          },
+          {
+            "percentage": 42,
+            "power": 70
+          },
+          {
+            "percentage": 53,
+            "power": 71
+          },
+          {
+            "percentage": 55,
+            "power": 57
+          },
+          {
+            "percentage": 71,
+            "power": 58
+          },
+          {
+            "percentage": 72,
+            "power": 38
+          },
+          {
+            "percentage": 76,
+            "power": 38
+          },
+          {
+            "percentage": 78,
+            "power": 25
+          },
+          {
+            "percentage": 88,
+            "power": 25
+          },
+          {
+            "percentage": 100,
+            "power": 8
+          }
+        ],
+        "is_default_charging_curve": false
+      },
+      "energy_consumption": {
+        "average_consumption": 15.8
+      }
+    },
+    {
+      "id": "c1fd1277-5d77-416b-bb25-84bd21f57963",
+      "brand": "Hyundai",
+      "type": "bev",
+      "brand_id": "9771afb8-9e25-4ae6-a5b3-b2a5b9f363f0",
+      "model": "Kona",
+      "release_year": 2020,
+      "variant": "64 kWh",
+      "usable_battery_size": 64.0,
+      "ac_charger": {
+        "usable_phases": 3,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 11.0,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.4,
+          "11": 11.0,
+          "16": 11.0,
+          "22": 11.0,
+          "43": 11.0
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs"
+        ],
+        "max_power": 77,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 70
+          },
+          {
+            "percentage": 40,
+            "power": 77
+          },
+          {
+            "percentage": 42,
+            "power": 70
+          },
+          {
+            "percentage": 53,
+            "power": 71
+          },
+          {
+            "percentage": 55,
+            "power": 57
+          },
+          {
+            "percentage": 71,
+            "power": 58
+          },
+          {
+            "percentage": 72,
+            "power": 38
+          },
+          {
+            "percentage": 76,
+            "power": 38
+          },
+          {
+            "percentage": 78,
+            "power": 25
+          },
+          {
+            "percentage": 88,
+            "power": 25
+          },
+          {
+            "percentage": 100,
+            "power": 8
+          }
+        ],
+        "is_default_charging_curve": false
+      },
+      "energy_consumption": {
+        "average_consumption": 15.8
+      }
+    },
+    {
+      "id": "8da12395-cf7a-4ccf-886f-e25ade426457",
+      "brand": "Jaguar",
+      "type": "bev",
+      "brand_id": "61fc79a2-04ca-418e-9333-caf5f67ba02f",
+      "model": "i-Pace",
+      "release_year": null,
+      "variant": "",
+      "usable_battery_size": 84.0,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 7.4,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.4,
+          "11": 3.7,
+          "16": 5.4,
+          "22": 7.4,
+          "43": 7.4
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs"
+        ],
+        "max_power": 105,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 100
+          },
+          {
+            "percentage": 30,
+            "power": 105
+          },
+          {
+            "percentage": 80,
+            "power": 55
+          },
+          {
+            "percentage": 90,
+            "power": 37
+          },
+          {
+            "percentage": 100,
+            "power": 12
+          }
+        ],
+        "is_default_charging_curve": false
+      },
+      "energy_consumption": {
+        "average_consumption": 23.2
+      }
+    },
+    {
+      "id": "66cb7bea-24b7-458f-ae3e-11d4a852568b",
+      "brand": "Kia",
+      "type": "bev",
+      "brand_id": "3337d5f0-39de-4ded-831b-843dfec1ebbd",
+      "model": "e-Niro",
+      "release_year": 2018,
+      "variant": "39 kWh",
+      "usable_battery_size": 39.0,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 7.2,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.2,
+          "11": 3.7,
+          "16": 5.4,
+          "22": 7.2,
+          "43": 7.2
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs"
+        ],
+        "max_power": 50.0,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 47
+          },
+          {
+            "percentage": 75,
+            "power": 50.0
+          },
+          {
+            "percentage": 100,
+            "power": 7.2
+          }
+        ],
+        "is_default_charging_curve": true
+      },
+      "energy_consumption": {
+        "average_consumption": 16.3
+      }
+    },
+    {
+      "id": "add28704-7b59-474d-bfa6-2338e54ccaef",
+      "brand": "Kia",
+      "type": "bev",
+      "brand_id": "3337d5f0-39de-4ded-831b-843dfec1ebbd",
+      "model": "Soul",
+      "release_year": null,
+      "variant": "27 kWh",
+      "usable_battery_size": 27.0,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 6.6,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 6.6,
+          "11": 3.7,
+          "16": 5.4,
+          "22": 6.6,
+          "43": 6.6
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "chademo"
+        ],
+        "max_power": 50.0,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 47
+          },
+          {
+            "percentage": 75,
+            "power": 50.0
+          },
+          {
+            "percentage": 100,
+            "power": 6.6
+          }
+        ],
+        "is_default_charging_curve": true
+      },
+      "energy_consumption": {
+        "average_consumption": 17.6
+      }
+    },
+    {
+      "id": "5e1746c9-56a2-4fb9-8a76-b75c95a037ee",
+      "brand": "Kia",
+      "type": "bev",
+      "brand_id": "3337d5f0-39de-4ded-831b-843dfec1ebbd",
+      "model": "Soul",
+      "release_year": null,
+      "variant": "30 kWh",
+      "usable_battery_size": 30.0,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 6.6,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 6.6,
+          "11": 3.7,
+          "16": 5.4,
+          "22": 6.6,
+          "43": 6.6
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "chademo"
+        ],
+        "max_power": 50.0,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 47
+          },
+          {
+            "percentage": 75,
+            "power": 50.0
+          },
+          {
+            "percentage": 100,
+            "power": 6.6
+          }
+        ],
+        "is_default_charging_curve": true
+      },
+      "energy_consumption": {
+        "average_consumption": 17.6
+      }
+    },
+    {
+      "id": "58661a4c-e1f9-4dc2-8d09-3bb42be62554",
+      "brand": "Kia",
+      "type": "bev",
+      "brand_id": "3337d5f0-39de-4ded-831b-843dfec1ebbd",
+      "model": "e-Soul",
+      "release_year": 2019,
+      "variant": "39 kWh",
+      "usable_battery_size": 39.0,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 7.2,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.2,
+          "11": 3.7,
+          "16": 5.4,
+          "22": 7.2,
+          "43": 7.2
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs"
+        ],
+        "max_power": 50.0,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 47
+          },
+          {
+            "percentage": 75,
+            "power": 50.0
+          },
+          {
+            "percentage": 100,
+            "power": 7.2
+          }
+        ],
+        "is_default_charging_curve": true
+      },
+      "energy_consumption": {
+        "average_consumption": 17.0
+      }
+    },
+    {
+      "id": "0f7eae0b-43be-48f8-b4a0-1a8266fd07a9",
+      "brand": "Kia",
+      "type": "bev",
+      "brand_id": "3337d5f0-39de-4ded-831b-843dfec1ebbd",
+      "model": "e-Niro",
+      "release_year": 2018,
+      "variant": "64 kWh",
+      "usable_battery_size": 64.0,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 7.2,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.2,
+          "11": 3.7,
+          "16": 5.4,
+          "22": 7.2,
+          "43": 7.2
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs"
+        ],
+        "max_power": 77,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 70
+          },
+          {
+            "percentage": 40,
+            "power": 77
+          },
+          {
+            "percentage": 42,
+            "power": 70
+          },
+          {
+            "percentage": 53,
+            "power": 71
+          },
+          {
+            "percentage": 55,
+            "power": 57
+          },
+          {
+            "percentage": 71,
+            "power": 58
+          },
+          {
+            "percentage": 72,
+            "power": 38
+          },
+          {
+            "percentage": 76,
+            "power": 38
+          },
+          {
+            "percentage": 78,
+            "power": 25
+          },
+          {
+            "percentage": 88,
+            "power": 25
+          },
+          {
+            "percentage": 100,
+            "power": 8
+          }
+        ],
+        "is_default_charging_curve": false
+      },
+      "energy_consumption": {
+        "average_consumption": 17.3
+      }
+    },
+    {
+      "id": "68cbedff-8994-4b77-bfb5-6aa22962e3a2",
+      "brand": "Kia",
+      "type": "bev",
+      "brand_id": "3337d5f0-39de-4ded-831b-843dfec1ebbd",
+      "model": "e-Niro",
+      "release_year": 2020,
+      "variant": "64 kWh",
+      "usable_battery_size": 64.0,
+      "ac_charger": {
+        "usable_phases": 3,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 11.0,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.4,
+          "11": 11.0,
+          "16": 11.0,
+          "22": 11.0,
+          "43": 11.0
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs"
+        ],
+        "max_power": 77,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 70
+          },
+          {
+            "percentage": 40,
+            "power": 77
+          },
+          {
+            "percentage": 42,
+            "power": 70
+          },
+          {
+            "percentage": 53,
+            "power": 71
+          },
+          {
+            "percentage": 55,
+            "power": 57
+          },
+          {
+            "percentage": 71,
+            "power": 58
+          },
+          {
+            "percentage": 72,
+            "power": 38
+          },
+          {
+            "percentage": 76,
+            "power": 38
+          },
+          {
+            "percentage": 78,
+            "power": 25
+          },
+          {
+            "percentage": 88,
+            "power": 25
+          },
+          {
+            "percentage": 100,
+            "power": 8
+          }
+        ],
+        "is_default_charging_curve": false
+      },
+      "energy_consumption": {
+        "average_consumption": 17.3
+      }
+    },
+    {
+      "id": "3c933da2-1fa1-4094-825a-a181610dbfd0",
+      "brand": "Kia",
+      "type": "bev",
+      "brand_id": "3337d5f0-39de-4ded-831b-843dfec1ebbd",
+      "model": "e-Soul",
+      "release_year": 2019,
+      "variant": "64 kWh",
+      "usable_battery_size": 64.0,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 7.2,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.2,
+          "11": 3.7,
+          "16": 5.4,
+          "22": 7.2,
+          "43": 7.2
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs"
+        ],
+        "max_power": 77,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 70
+          },
+          {
+            "percentage": 40,
+            "power": 77
+          },
+          {
+            "percentage": 42,
+            "power": 70
+          },
+          {
+            "percentage": 53,
+            "power": 71
+          },
+          {
+            "percentage": 55,
+            "power": 57
+          },
+          {
+            "percentage": 71,
+            "power": 58
+          },
+          {
+            "percentage": 72,
+            "power": 38
+          },
+          {
+            "percentage": 76,
+            "power": 38
+          },
+          {
+            "percentage": 78,
+            "power": 25
+          },
+          {
+            "percentage": 88,
+            "power": 25
+          },
+          {
+            "percentage": 100,
+            "power": 8
+          }
+        ],
+        "is_default_charging_curve": false
+      },
+      "energy_consumption": {
+        "average_consumption": 17.5
+      }
+    },
+    {
+      "id": "87e73c44-93ba-4687-877c-32a3aa940a09",
+      "brand": "Kia",
+      "type": "bev",
+      "brand_id": "3337d5f0-39de-4ded-831b-843dfec1ebbd",
+      "model": "e-Soul",
+      "release_year": 2020,
+      "variant": "64 kWh 11 kW-AC",
+      "usable_battery_size": 64.0,
+      "ac_charger": {
+        "usable_phases": 3,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 11.0,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.4,
+          "11": 11.0,
+          "16": 11.0,
+          "22": 11.0,
+          "43": 11.0
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs"
+        ],
+        "max_power": 77.0,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 73
+          },
+          {
+            "percentage": 75,
+            "power": 77.0
+          },
+          {
+            "percentage": 100,
+            "power": 11.0
+          }
+        ],
+        "is_default_charging_curve": true
+      },
+      "energy_consumption": {
+        "average_consumption": 17.5
+      }
+    },
+    {
+      "id": "5335d545-cfeb-4bca-bb11-cf0966f1b5ca",
+      "brand": "Mercedes Benz",
+      "type": "bev",
+      "brand_id": "b2282fbe-f5d9-48d9-943f-a9b66ec51423",
+      "model": "EQC",
+      "release_year": 2019,
+      "variant": "",
+      "usable_battery_size": 80.0,
+      "ac_charger": {
+        "usable_phases": 2,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 7.4,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.4,
+          "11": 7.4,
+          "16": 7.4,
+          "22": 7.4,
+          "43": 7.4
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs"
+        ],
+        "max_power": 125,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 105
+          },
+          {
+            "percentage": 39,
+            "power": 125
+          },
+          {
+            "percentage": 70,
+            "power": 87
+          },
+          {
+            "percentage": 84,
+            "power": 68
+          },
+          {
+            "percentage": 100,
+            "power": 25
+          }
+        ],
+        "is_default_charging_curve": false
+      },
+      "energy_consumption": {
+        "average_consumption": 21.6
+      }
+    },
+    {
+      "id": "71cc8552-391f-49b0-b106-2202fa222161",
+      "brand": "Mercedes Benz",
+      "type": "bev",
+      "brand_id": "b2282fbe-f5d9-48d9-943f-a9b66ec51423",
+      "model": "B-Klasse",
+      "release_year": null,
+      "variant": "",
+      "usable_battery_size": 28.0,
+      "ac_charger": {
+        "usable_phases": 3,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 11.0,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.4,
+          "11": 11.0,
+          "16": 11.0,
+          "22": 11.0,
+          "43": 11.0
+        }
+      },
+      "dc_charger": null,
+      "energy_consumption": {
+        "average_consumption": 16.6
+      }
+    },
+    {
+      "id": "2c7abcf4-0ba0-4feb-9e9b-b47661072feb",
+      "brand": "Mitsubishi",
+      "type": "bev",
+      "brand_id": "3cf8cf51-60ac-4cac-9f25-131c21eda12e",
+      "model": "i-Miev",
+      "release_year": null,
+      "variant": "",
+      "usable_battery_size": 14.5,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type1"
+        ],
+        "max_power": 3.6,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.6,
+          "7.4": 3.6,
+          "11": 3.6,
+          "16": 3.6,
+          "22": 3.6,
+          "43": 3.6
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "chademo"
+        ],
+        "max_power": 50.0,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 47
+          },
+          {
+            "percentage": 75,
+            "power": 50.0
+          },
+          {
+            "percentage": 100,
+            "power": 3.6
+          }
+        ],
+        "is_default_charging_curve": true
+      },
+      "energy_consumption": {
+        "average_consumption": 12.9
+      }
+    },
+    {
+      "id": "1847e3aa-750c-4b12-a80a-56e792b3aadb",
+      "brand": "Mitsubishi",
+      "type": "phev",
+      "brand_id": "3cf8cf51-60ac-4cac-9f25-131c21eda12e",
+      "model": "Outlander PHEV",
+      "release_year": 2018,
+      "variant": "",
+      "usable_battery_size": 11.0,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type1"
+        ],
+        "max_power": 3.7,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 3.7,
+          "11": 3.7,
+          "16": 3.7,
+          "22": 3.7,
+          "43": 3.7
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "chademo"
+        ],
+        "max_power": 22.0,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 20
+          },
+          {
+            "percentage": 75,
+            "power": 22.0
+          },
+          {
+            "percentage": 100,
+            "power": 3.7
+          }
+        ],
+        "is_default_charging_curve": true
+      },
+      "energy_consumption": {
+        "average_consumption": 15.2
+      }
+    },
+    {
+      "id": "86290f48-f554-4db5-bd35-4a8b7828689a",
+      "brand": "Nissan",
+      "type": "bev",
+      "brand_id": "dab5a47a-e8ce-4d34-9139-0701499205b1",
+      "model": "e-NV 200",
+      "release_year": null,
+      "variant": "24 kWh",
+      "usable_battery_size": 24.0,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type1"
+        ],
+        "max_power": 3.6,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.6,
+          "7.4": 3.6,
+          "11": 3.6,
+          "16": 3.6,
+          "22": 3.6,
+          "43": 3.6
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "chademo"
+        ],
+        "max_power": 46.0,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 43
+          },
+          {
+            "percentage": 75,
+            "power": 46.0
+          },
+          {
+            "percentage": 100,
+            "power": 3.6
+          }
+        ],
+        "is_default_charging_curve": true
+      },
+      "energy_consumption": {
+        "average_consumption": 20.0
+      }
+    },
+    {
+      "id": "2644bfd3-a593-4276-bb1f-c8965e33797e",
+      "brand": "Nissan",
+      "type": "bev",
+      "brand_id": "dab5a47a-e8ce-4d34-9139-0701499205b1",
+      "model": "e-NV 200",
+      "release_year": null,
+      "variant": "24 kWh 6,6 kW-AC",
+      "usable_battery_size": 24.0,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type1"
+        ],
+        "max_power": 6.6,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 6.6,
+          "11": 3.7,
+          "16": 5.4,
+          "22": 6.6,
+          "43": 6.6
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "chademo"
+        ],
+        "max_power": 46.0,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 43
+          },
+          {
+            "percentage": 75,
+            "power": 46.0
+          },
+          {
+            "percentage": 100,
+            "power": 6.6
+          }
+        ],
+        "is_default_charging_curve": true
+      },
+      "energy_consumption": {
+        "average_consumption": 20.0
+      }
+    },
+    {
+      "id": "daa3573d-60ea-4c7a-8048-79c575e3db4c",
+      "brand": "Nissan",
+      "type": "bev",
+      "brand_id": "dab5a47a-e8ce-4d34-9139-0701499205b1",
+      "model": "e-NV 200",
+      "release_year": null,
+      "variant": "40 kWh",
+      "usable_battery_size": 38.0,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type1"
+        ],
+        "max_power": 6.6,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 6.6,
+          "11": 3.7,
+          "16": 5.4,
+          "22": 6.6,
+          "43": 6.6
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "chademo"
+        ],
+        "max_power": 46.0,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 43
+          },
+          {
+            "percentage": 75,
+            "power": 46.0
+          },
+          {
+            "percentage": 100,
+            "power": 6.6
+          }
+        ],
+        "is_default_charging_curve": true
+      },
+      "energy_consumption": {
+        "average_consumption": 20.0
+      }
+    },
+    {
+      "id": "dc7d163b-29bc-45cf-8156-60eb3e3b1294",
+      "brand": "Nissan",
+      "type": "bev",
+      "brand_id": "dab5a47a-e8ce-4d34-9139-0701499205b1",
+      "model": "Leaf",
+      "release_year": 2011,
+      "variant": "24 kWh",
+      "usable_battery_size": 24.0,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type1"
+        ],
+        "max_power": 3.6,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.6,
+          "7.4": 3.6,
+          "11": 3.6,
+          "16": 3.6,
+          "22": 3.6,
+          "43": 3.6
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "chademo"
+        ],
+        "max_power": 46,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 40
+          },
+          {
+            "percentage": 22,
+            "power": 46
+          },
+          {
+            "percentage": 100,
+            "power": 10
+          }
+        ],
+        "is_default_charging_curve": false
+      },
+      "energy_consumption": {
+        "average_consumption": 16.9
+      }
+    },
+    {
+      "id": "3b649ae3-935b-425b-b5d6-75c549b96d40",
+      "brand": "Nissan",
+      "type": "bev",
+      "brand_id": "dab5a47a-e8ce-4d34-9139-0701499205b1",
+      "model": "Leaf",
+      "release_year": 2011,
+      "variant": "24 kWh 6,6 kW-AC",
+      "usable_battery_size": 24.0,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type1"
+        ],
+        "max_power": 6.6,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 6.6,
+          "11": 3.7,
+          "16": 5.4,
+          "22": 6.6,
+          "43": 6.6
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "chademo"
+        ],
+        "max_power": 46,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 40
+          },
+          {
+            "percentage": 22,
+            "power": 46
+          },
+          {
+            "percentage": 100,
+            "power": 10
+          }
+        ],
+        "is_default_charging_curve": false
+      },
+      "energy_consumption": {
+        "average_consumption": 16.9
+      }
+    },
+    {
+      "id": "83ec0576-bfb8-400a-9af9-483b2684673c",
+      "brand": "Nissan",
+      "type": "bev",
+      "brand_id": "dab5a47a-e8ce-4d34-9139-0701499205b1",
+      "model": "Leaf",
+      "release_year": 2015,
+      "variant": "30 kWh",
+      "usable_battery_size": 30.0,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type1"
+        ],
+        "max_power": 3.6,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.6,
+          "7.4": 3.6,
+          "11": 3.6,
+          "16": 3.6,
+          "22": 3.6,
+          "43": 3.6
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "chademo"
+        ],
+        "max_power": 47,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 41
+          },
+          {
+            "percentage": 80,
+            "power": 47
+          },
+          {
+            "percentage": 90,
+            "power": 30
+          },
+          {
+            "percentage": 100,
+            "power": 10
+          }
+        ],
+        "is_default_charging_curve": false
+      },
+      "energy_consumption": {
+        "average_consumption": 16.5
+      }
+    },
+    {
+      "id": "74f2c3a5-f78f-459a-823a-dfc0a21e5aeb",
+      "brand": "Nissan",
+      "type": "bev",
+      "brand_id": "dab5a47a-e8ce-4d34-9139-0701499205b1",
+      "model": "Leaf",
+      "release_year": 2015,
+      "variant": "30 kWh 6,6 kW-AC",
+      "usable_battery_size": 30.0,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type1"
+        ],
+        "max_power": 6.6,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 6.6,
+          "11": 3.7,
+          "16": 5.4,
+          "22": 6.6,
+          "43": 6.6
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "chademo"
+        ],
+        "max_power": 47,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 41
+          },
+          {
+            "percentage": 80,
+            "power": 47
+          },
+          {
+            "percentage": 90,
+            "power": 30
+          },
+          {
+            "percentage": 100,
+            "power": 10
+          }
+        ],
+        "is_default_charging_curve": false
+      },
+      "energy_consumption": {
+        "average_consumption": 16.5
+      }
+    },
+    {
+      "id": "77028f96-eb9b-4c65-b452-c92011b1fc1c",
+      "brand": "Nissan",
+      "type": "bev",
+      "brand_id": "dab5a47a-e8ce-4d34-9139-0701499205b1",
+      "model": "Leaf",
+      "release_year": 2017,
+      "variant": "40 kWh",
+      "usable_battery_size": 38.0,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 6.6,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 6.6,
+          "11": 3.7,
+          "16": 5.4,
+          "22": 6.6,
+          "43": 6.6
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "chademo"
+        ],
+        "max_power": 45,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 41
+          },
+          {
+            "percentage": 62,
+            "power": 45
+          },
+          {
+            "percentage": 65,
+            "power": 36
+          },
+          {
+            "percentage": 100,
+            "power": 15
+          }
+        ],
+        "is_default_charging_curve": false
+      },
+      "energy_consumption": {
+        "average_consumption": 16.4
+      }
+    },
+    {
+      "id": "78b14a0f-5c62-4885-95ef-2e3f81197260",
+      "brand": "Nissan",
+      "type": "bev",
+      "brand_id": "dab5a47a-e8ce-4d34-9139-0701499205b1",
+      "model": "Leaf",
+      "release_year": 2019,
+      "variant": "e+ 62 kWh",
+      "usable_battery_size": 62.0,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 6.6,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 6.6,
+          "11": 3.7,
+          "16": 5.4,
+          "22": 6.6,
+          "43": 6.6
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "chademo"
+        ],
+        "max_power": 100.0,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 95
+          },
+          {
+            "percentage": 75,
+            "power": 100.0
+          },
+          {
+            "percentage": 100,
+            "power": 6.6
+          }
+        ],
+        "is_default_charging_curve": true
+      },
+      "energy_consumption": {
+        "average_consumption": 17.2
+      }
+    },
+    {
+      "id": "f33f0a4f-9b53-4e21-807b-f8b2ca4a24f6",
+      "brand": "Opel",
+      "type": "bev",
+      "brand_id": "3500fb3e-bd2c-478e-ae5e-ac9ee490594b",
+      "model": "Ampera e",
+      "release_year": 2017,
+      "variant": "CCS",
+      "usable_battery_size": 60.0,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 7.2,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.2,
+          "11": 3.7,
+          "16": 5.4,
+          "22": 7.2,
+          "43": 7.2
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs"
+        ],
+        "max_power": 45,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 45
+          },
+          {
+            "percentage": 50,
+            "power": 45
+          },
+          {
+            "percentage": 100,
+            "power": 15
+          }
+        ],
+        "is_default_charging_curve": false
+      },
+      "energy_consumption": {
+        "average_consumption": 17.3
+      }
+    },
+    {
+      "id": "7f4bf402-f8e2-47da-b456-30f1bdfce8ac",
+      "brand": "Opel",
+      "type": "bev",
+      "brand_id": "3500fb3e-bd2c-478e-ae5e-ac9ee490594b",
+      "model": "Ampera e-Pionier",
+      "release_year": 2012,
+      "variant": "",
+      "usable_battery_size": 10.6,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type1"
+        ],
+        "max_power": 2.2,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.2,
+          "3.7": 2.2,
+          "7.4": 2.2,
+          "11": 2.2,
+          "16": 2.2,
+          "22": 2.2,
+          "43": 2.2
+        }
+      },
+      "dc_charger": null,
+      "energy_consumption": {
+        "average_consumption": 16.9
+      }
+    },
+    {
+      "id": "28b61ff5-734a-412e-9241-dec4c27d1a38",
+      "brand": "Peugeot",
+      "type": "bev",
+      "brand_id": "f458fe7d-f545-45f3-8c23-2ab8140b8b5d",
+      "model": "I-on",
+      "release_year": null,
+      "variant": "",
+      "usable_battery_size": 14.5,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type1"
+        ],
+        "max_power": 3.6,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.6,
+          "7.4": 3.6,
+          "11": 3.6,
+          "16": 3.6,
+          "22": 3.6,
+          "43": 3.6
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "chademo"
+        ],
+        "max_power": 50.0,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 47
+          },
+          {
+            "percentage": 75,
+            "power": 50.0
+          },
+          {
+            "percentage": 100,
+            "power": 3.6
+          }
+        ],
+        "is_default_charging_curve": true
+      },
+      "energy_consumption": {
+        "average_consumption": 12.9
+      }
+    },
+    {
+      "id": "9666138c-1d24-4fa8-9083-0ffba09ab1ef",
+      "brand": "Renault",
+      "type": "bev",
+      "brand_id": "c0d8a60c-34b8-44fe-8af7-9eeb62eedb4b",
+      "model": "Zoe",
+      "release_year": 2013,
+      "variant": "Q 210",
+      "usable_battery_size": 22.0,
+      "ac_charger": {
+        "usable_phases": 3,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 43.0,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.4,
+          "11": 11.100000000000001,
+          "16": 16.200000000000003,
+          "22": 22.200000000000003,
+          "43": 43.0
+        }
+      },
+      "dc_charger": null,
+      "energy_consumption": {
+        "average_consumption": 15.5
+      }
+    },
+    {
+      "id": "b3fd3e84-4dd4-4ac0-914f-3c3c582fc600",
+      "brand": "Renault",
+      "type": "bev",
+      "brand_id": "c0d8a60c-34b8-44fe-8af7-9eeb62eedb4b",
+      "model": "Zoe",
+      "release_year": 2015,
+      "variant": "R 240",
+      "usable_battery_size": 22.0,
+      "ac_charger": {
+        "usable_phases": 3,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 22.0,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.4,
+          "11": 11.100000000000001,
+          "16": 16.200000000000003,
+          "22": 22.0,
+          "43": 22.0
+        }
+      },
+      "dc_charger": null,
+      "energy_consumption": {
+        "average_consumption": 15.5
+      }
+    },
+    {
+      "id": "737441e8-6b5f-4185-9b0b-e51585ab6ea8",
+      "brand": "Renault",
+      "type": "bev",
+      "brand_id": "c0d8a60c-34b8-44fe-8af7-9eeb62eedb4b",
+      "model": "Zoe",
+      "release_year": 2017,
+      "variant": "R 90",
+      "usable_battery_size": 41.0,
+      "ac_charger": {
+        "usable_phases": 3,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 22.0,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.4,
+          "11": 11.100000000000001,
+          "16": 16.200000000000003,
+          "22": 22.0,
+          "43": 22.0
+        }
+      },
+      "dc_charger": null,
+      "energy_consumption": {
+        "average_consumption": 16.1
+      }
+    },
+    {
+      "id": "e604a056-9338-4044-93dd-5a595d4a3ef3",
+      "brand": "Renault",
+      "type": "bev",
+      "brand_id": "c0d8a60c-34b8-44fe-8af7-9eeb62eedb4b",
+      "model": "Zoe",
+      "release_year": 2017,
+      "variant": "Q 90",
+      "usable_battery_size": 41.0,
+      "ac_charger": {
+        "usable_phases": 3,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 30.0,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.4,
+          "11": 11.100000000000001,
+          "16": 16.200000000000003,
+          "22": 22.200000000000003,
+          "43": 30.0
+        }
+      },
+      "dc_charger": null,
+      "energy_consumption": {
+        "average_consumption": 16.4
+      }
+    },
+    {
+      "id": "c53b5947-23a3-420c-9798-f3846732e41a",
+      "brand": "Renault",
+      "type": "bev",
+      "brand_id": "c0d8a60c-34b8-44fe-8af7-9eeb62eedb4b",
+      "model": "Zoe",
+      "release_year": 2019,
+      "variant": "R110 ZE 40",
+      "usable_battery_size": 41.0,
+      "ac_charger": {
+        "usable_phases": 3,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 22.0,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.4,
+          "11": 11.100000000000001,
+          "16": 16.200000000000003,
+          "22": 22.0,
+          "43": 22.0
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs"
+        ],
+        "max_power": 45.0,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 42
+          },
+          {
+            "percentage": 75,
+            "power": 45.0
+          },
+          {
+            "percentage": 100,
+            "power": 22.0
+          }
+        ],
+        "is_default_charging_curve": true
+      },
+      "energy_consumption": {
+        "average_consumption": 16.1
+      }
+    },
+    {
+      "id": "de3a8751-00c9-46d1-9e7a-ad830835c6a7",
+      "brand": "Renault",
+      "type": "bev",
+      "brand_id": "c0d8a60c-34b8-44fe-8af7-9eeb62eedb4b",
+      "model": "Zoe",
+      "release_year": 2019,
+      "variant": "ZE50",
+      "usable_battery_size": 52.0,
+      "ac_charger": {
+        "usable_phases": 3,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 22.0,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.4,
+          "11": 11.100000000000001,
+          "16": 16.200000000000003,
+          "22": 22.0,
+          "43": 22.0
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs"
+        ],
+        "max_power": 46,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 41
+          },
+          {
+            "percentage": 52,
+            "power": 46
+          },
+          {
+            "percentage": 80,
+            "power": 27
+          },
+          {
+            "percentage": 100,
+            "power": 22
+          }
+        ],
+        "is_default_charging_curve": false
+      },
+      "energy_consumption": {
+        "average_consumption": 16.5
+      }
+    },
+    {
+      "id": "1c13fba9-2c09-4be1-b5c6-aecd2b253afb",
+      "brand": "Renault",
+      "type": "bev",
+      "brand_id": "c0d8a60c-34b8-44fe-8af7-9eeb62eedb4b",
+      "model": "Kangoo ZE",
+      "release_year": null,
+      "variant": "",
+      "usable_battery_size": 33.0,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 7.2,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.2,
+          "11": 3.7,
+          "16": 5.4,
+          "22": 7.2,
+          "43": 7.2
+        }
+      },
+      "dc_charger": null,
+      "energy_consumption": {
+        "average_consumption": 19.4
+      }
+    },
+    {
+      "id": "8f6db2f5-1dd9-46f6-bb97-eba419dbaea4",
+      "brand": "Renault",
+      "type": "bev",
+      "brand_id": "c0d8a60c-34b8-44fe-8af7-9eeb62eedb4b",
+      "model": "Twizy",
+      "release_year": null,
+      "variant": "",
+      "usable_battery_size": 6.1,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 3.6,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.6,
+          "7.4": 3.6,
+          "11": 3.6,
+          "16": 3.6,
+          "22": 3.6,
+          "43": 3.6
+        }
+      },
+      "dc_charger": null,
+      "energy_consumption": {
+        "average_consumption": 8.4
+      }
+    },
+    {
+      "id": "785c65be-3122-44ad-b574-9291c0793c37",
+      "brand": "smart",
+      "type": "bev",
+      "brand_id": "a462c115-33b4-438b-b590-bc4a33382d1c",
+      "model": "fortwo ED",
+      "release_year": null,
+      "variant": "",
+      "usable_battery_size": 17.6,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 3.6,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.6,
+          "7.4": 3.6,
+          "11": 3.6,
+          "16": 3.6,
+          "22": 3.6,
+          "43": 3.6
+        }
+      },
+      "dc_charger": null,
+      "energy_consumption": {
+        "average_consumption": 16.7
+      }
+    },
+    {
+      "id": "e3525b59-d3b9-4eef-9a01-1408358c5534",
+      "brand": "smart",
+      "type": "bev",
+      "brand_id": "a462c115-33b4-438b-b590-bc4a33382d1c",
+      "model": "fortwo ED",
+      "release_year": null,
+      "variant": "22 kW-AC",
+      "usable_battery_size": 17.6,
+      "ac_charger": {
+        "usable_phases": 3,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 22.0,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.4,
+          "11": 11.100000000000001,
+          "16": 16.200000000000003,
+          "22": 22.0,
+          "43": 22.0
+        }
+      },
+      "dc_charger": null,
+      "energy_consumption": {
+        "average_consumption": 16.7
+      }
+    },
+    {
+      "id": "1d43c981-02be-4d41-a34b-65a40ff25f7b",
+      "brand": "smart",
+      "type": "bev",
+      "brand_id": "a462c115-33b4-438b-b590-bc4a33382d1c",
+      "model": "fortwo EQ",
+      "release_year": null,
+      "variant": "",
+      "usable_battery_size": 17.6,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 3.6,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.6,
+          "7.4": 3.6,
+          "11": 3.6,
+          "16": 3.6,
+          "22": 3.6,
+          "43": 3.6
+        }
+      },
+      "dc_charger": null,
+      "energy_consumption": {
+        "average_consumption": 16.7
+      }
+    },
+    {
+      "id": "f0b185de-9b9d-4a08-924f-450c4dadc7a6",
+      "brand": "smart",
+      "type": "bev",
+      "brand_id": "a462c115-33b4-438b-b590-bc4a33382d1c",
+      "model": "fortwo EQ",
+      "release_year": null,
+      "variant": "22 kW-AC",
+      "usable_battery_size": 17.6,
+      "ac_charger": {
+        "usable_phases": 3,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 22.0,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.4,
+          "11": 11.100000000000001,
+          "16": 16.200000000000003,
+          "22": 22.0,
+          "43": 22.0
+        }
+      },
+      "dc_charger": null,
+      "energy_consumption": {
+        "average_consumption": 16.7
+      }
+    },
+    {
+      "id": "6a3a76f6-a0d0-41ff-afc9-5ad2f0879b4d",
+      "brand": "smart",
+      "type": "bev",
+      "brand_id": "a462c115-33b4-438b-b590-bc4a33382d1c",
+      "model": "forfour EQ",
+      "release_year": null,
+      "variant": "",
+      "usable_battery_size": 17.6,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 3.6,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.6,
+          "7.4": 3.6,
+          "11": 3.6,
+          "16": 3.6,
+          "22": 3.6,
+          "43": 3.6
+        }
+      },
+      "dc_charger": null,
+      "energy_consumption": {
+        "average_consumption": 17.6
+      }
+    },
+    {
+      "id": "805b5810-074c-449b-ad19-d6c852ebf8f6",
+      "brand": "smart",
+      "type": "bev",
+      "brand_id": "a462c115-33b4-438b-b590-bc4a33382d1c",
+      "model": "forfour EQ",
+      "release_year": null,
+      "variant": "22 kW-AC",
+      "usable_battery_size": 17.6,
+      "ac_charger": {
+        "usable_phases": 3,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 22.0,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.4,
+          "11": 11.100000000000001,
+          "16": 16.200000000000003,
+          "22": 22.0,
+          "43": 22.0
+        }
+      },
+      "dc_charger": null,
+      "energy_consumption": {
+        "average_consumption": 17.6
+      }
+    },
+    {
+      "id": "93c82e06-1aa3-4c19-8f81-b9fac0c598c3",
+      "brand": "Tesla",
+      "type": "bev",
+      "brand_id": "f37896c3-6bc5-45e1-b442-b9cbc38e3a7c",
+      "model": "Model 3",
+      "release_year": null,
+      "variant": "SR+",
+      "usable_battery_size": 50.0,
+      "ac_charger": {
+        "usable_phases": 3,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 11.0,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.4,
+          "11": 11.0,
+          "16": 11.0,
+          "22": 11.0,
+          "43": 11.0
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs",
+          "tesla_ccs"
+        ],
+        "max_power": 149,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 130
+          },
+          {
+            "percentage": 52,
+            "power": 149
+          },
+          {
+            "percentage": 60,
+            "power": 110
+          },
+          {
+            "percentage": 100,
+            "power": 12
+          }
+        ],
+        "is_default_charging_curve": false
+      },
+      "energy_consumption": {
+        "average_consumption": 15.3
+      }
+    },
+    {
+      "id": "7de25a64-e9fa-484f-bf99-d02b02cfb17d",
+      "brand": "Tesla",
+      "type": "bev",
+      "brand_id": "f37896c3-6bc5-45e1-b442-b9cbc38e3a7c",
+      "model": "Model 3",
+      "release_year": null,
+      "variant": "LR",
+      "usable_battery_size": 74.0,
+      "ac_charger": {
+        "usable_phases": 3,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 11.0,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.4,
+          "11": 11.0,
+          "16": 11.0,
+          "22": 11.0,
+          "43": 11.0
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs",
+          "tesla_ccs"
+        ],
+        "max_power": 195,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 180
+          },
+          {
+            "percentage": 40,
+            "power": 195
+          },
+          {
+            "percentage": 60,
+            "power": 110
+          },
+          {
+            "percentage": 100,
+            "power": 12
+          }
+        ],
+        "is_default_charging_curve": false
+      },
+      "energy_consumption": {
+        "average_consumption": 16.1
+      }
+    },
+    {
+      "id": "7dbad968-7058-4440-9c8f-8f483cdd973a",
+      "brand": "Tesla",
+      "type": "bev",
+      "brand_id": "f37896c3-6bc5-45e1-b442-b9cbc38e3a7c",
+      "model": "Model 3",
+      "release_year": null,
+      "variant": "Performance",
+      "usable_battery_size": 72.5,
+      "ac_charger": {
+        "usable_phases": 3,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 11.0,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.4,
+          "11": 11.0,
+          "16": 11.0,
+          "22": 11.0,
+          "43": 11.0
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs",
+          "tesla_ccs"
+        ],
+        "max_power": 195,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 180
+          },
+          {
+            "percentage": 40,
+            "power": 195
+          },
+          {
+            "percentage": 60,
+            "power": 110
+          },
+          {
+            "percentage": 100,
+            "power": 12
+          }
+        ],
+        "is_default_charging_curve": false
+      },
+      "energy_consumption": {
+        "average_consumption": 16.7
+      }
+    },
+    {
+      "id": "80e7ef22-27f8-4e93-8c86-7a6a0a227e5d",
+      "brand": "Tesla",
+      "type": "bev",
+      "brand_id": "f37896c3-6bc5-45e1-b442-b9cbc38e3a7c",
+      "model": "Model S",
+      "release_year": null,
+      "variant": "70",
+      "usable_battery_size": 67.0,
+      "ac_charger": {
+        "usable_phases": 3,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 11.0,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.4,
+          "11": 11.0,
+          "16": 11.0,
+          "22": 11.0,
+          "43": 11.0
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs",
+          "chademo",
+          "tesla_suc"
+        ],
+        "max_power": 100.0,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 95
+          },
+          {
+            "percentage": 75,
+            "power": 100.0
+          },
+          {
+            "percentage": 100,
+            "power": 11.0
+          }
+        ],
+        "is_default_charging_curve": true
+      },
+      "energy_consumption": {
+        "average_consumption": 18.5
+      }
+    },
+    {
+      "id": "ed3fe177-d852-49bd-84ca-8ecd8d7ec3b1",
+      "brand": "Tesla",
+      "type": "bev",
+      "brand_id": "f37896c3-6bc5-45e1-b442-b9cbc38e3a7c",
+      "model": "Model S",
+      "release_year": null,
+      "variant": "70, 22 kW-AC",
+      "usable_battery_size": 67.0,
+      "ac_charger": {
+        "usable_phases": 3,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 22.0,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.4,
+          "11": 11.100000000000001,
+          "16": 16.200000000000003,
+          "22": 22.0,
+          "43": 22.0
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs",
+          "chademo",
+          "tesla_suc"
+        ],
+        "max_power": 100.0,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 95
+          },
+          {
+            "percentage": 75,
+            "power": 100.0
+          },
+          {
+            "percentage": 100,
+            "power": 22.0
+          }
+        ],
+        "is_default_charging_curve": true
+      },
+      "energy_consumption": {
+        "average_consumption": 18.5
+      }
+    },
+    {
+      "id": "7f709186-39c3-420f-9caf-1fdb424f7953",
+      "brand": "Tesla",
+      "type": "bev",
+      "brand_id": "f37896c3-6bc5-45e1-b442-b9cbc38e3a7c",
+      "model": "Model S",
+      "release_year": null,
+      "variant": "75",
+      "usable_battery_size": 72.5,
+      "ac_charger": {
+        "usable_phases": 3,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 16.5,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.4,
+          "11": 11.100000000000001,
+          "16": 16.200000000000003,
+          "22": 16.5,
+          "43": 16.5
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs",
+          "chademo",
+          "tesla_suc"
+        ],
+        "max_power": 120.0,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 114
+          },
+          {
+            "percentage": 75,
+            "power": 120.0
+          },
+          {
+            "percentage": 100,
+            "power": 16.5
+          }
+        ],
+        "is_default_charging_curve": true
+      },
+      "energy_consumption": {
+        "average_consumption": 18.5
+      }
+    },
+    {
+      "id": "0a663bbf-3b87-4e7a-bd7a-3e9c39961a2b",
+      "brand": "Tesla",
+      "type": "bev",
+      "brand_id": "f37896c3-6bc5-45e1-b442-b9cbc38e3a7c",
+      "model": "Model S",
+      "release_year": null,
+      "variant": "85",
+      "usable_battery_size": 76.0,
+      "ac_charger": {
+        "usable_phases": 3,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 11.0,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.4,
+          "11": 11.0,
+          "16": 11.0,
+          "22": 11.0,
+          "43": 11.0
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs",
+          "chademo",
+          "tesla_suc"
+        ],
+        "max_power": 140,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 125
+          },
+          {
+            "percentage": 43,
+            "power": 140
+          },
+          {
+            "percentage": 80,
+            "power": 37
+          },
+          {
+            "percentage": 100,
+            "power": 12
+          }
+        ],
+        "is_default_charging_curve": false
+      },
+      "energy_consumption": {
+        "average_consumption": 19.1
+      }
+    },
+    {
+      "id": "32922583-e434-4ed2-afc1-4d8fde67aeda",
+      "brand": "Tesla",
+      "type": "bev",
+      "brand_id": "f37896c3-6bc5-45e1-b442-b9cbc38e3a7c",
+      "model": "Model S",
+      "release_year": null,
+      "variant": "90",
+      "usable_battery_size": 81.0,
+      "ac_charger": {
+        "usable_phases": 3,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 16.5,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.4,
+          "11": 11.100000000000001,
+          "16": 16.200000000000003,
+          "22": 16.5,
+          "43": 16.5
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs",
+          "chademo",
+          "tesla_suc"
+        ],
+        "max_power": 140,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 125
+          },
+          {
+            "percentage": 43,
+            "power": 140
+          },
+          {
+            "percentage": 80,
+            "power": 37
+          },
+          {
+            "percentage": 100,
+            "power": 12
+          }
+        ],
+        "is_default_charging_curve": false
+      },
+      "energy_consumption": {
+        "average_consumption": 18.2
+      }
+    },
+    {
+      "id": "b5aa307e-a6b9-46e7-939e-2dd525870c13",
+      "brand": "Tesla",
+      "type": "bev",
+      "brand_id": "f37896c3-6bc5-45e1-b442-b9cbc38e3a7c",
+      "model": "Model S",
+      "release_year": null,
+      "variant": "100",
+      "usable_battery_size": 95.0,
+      "ac_charger": {
+        "usable_phases": 3,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 16.5,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.4,
+          "11": 11.100000000000001,
+          "16": 16.200000000000003,
+          "22": 16.5,
+          "43": 16.5
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs",
+          "chademo",
+          "tesla_suc"
+        ],
+        "max_power": 140,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 125
+          },
+          {
+            "percentage": 43,
+            "power": 140
+          },
+          {
+            "percentage": 80,
+            "power": 37
+          },
+          {
+            "percentage": 100,
+            "power": 12
+          }
+        ],
+        "is_default_charging_curve": false
+      },
+      "energy_consumption": {
+        "average_consumption": 18.4
+      }
+    },
+    {
+      "id": "d03d6e42-d6f8-4e3f-b527-a3c1d1e40f9d",
+      "brand": "Tesla",
+      "type": "bev",
+      "brand_id": "f37896c3-6bc5-45e1-b442-b9cbc38e3a7c",
+      "model": "Model X",
+      "release_year": 2016,
+      "variant": "90D",
+      "usable_battery_size": 90.0,
+      "ac_charger": {
+        "usable_phases": 3,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 11.0,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.4,
+          "11": 11.0,
+          "16": 11.0,
+          "22": 11.0,
+          "43": 11.0
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs",
+          "chademo",
+          "tesla_suc"
+        ],
+        "max_power": 140,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 125
+          },
+          {
+            "percentage": 43,
+            "power": 140
+          },
+          {
+            "percentage": 80,
+            "power": 37
+          },
+          {
+            "percentage": 100,
+            "power": 12
+          }
+        ],
+        "is_default_charging_curve": false
+      },
+      "energy_consumption": {
+        "average_consumption": 20.0
+      }
+    },
+    {
+      "id": "0aa5220a-6da7-4dc0-a0a1-714bea4fded3",
+      "brand": "Tesla",
+      "type": "bev",
+      "brand_id": "f37896c3-6bc5-45e1-b442-b9cbc38e3a7c",
+      "model": "Model X",
+      "release_year": 2017,
+      "variant": "P100D",
+      "usable_battery_size": 100.0,
+      "ac_charger": {
+        "usable_phases": 3,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 16.5,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.4,
+          "11": 11.100000000000001,
+          "16": 16.200000000000003,
+          "22": 16.5,
+          "43": 16.5
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs",
+          "chademo",
+          "tesla_suc"
+        ],
+        "max_power": 140,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 125
+          },
+          {
+            "percentage": 43,
+            "power": 140
+          },
+          {
+            "percentage": 80,
+            "power": 37
+          },
+          {
+            "percentage": 100,
+            "power": 12
+          }
+        ],
+        "is_default_charging_curve": false
+      },
+      "energy_consumption": {
+        "average_consumption": 22.0
+      }
+    },
+    {
+      "id": "908e578f-f890-4716-93e8-7c0f75e46bb5",
+      "brand": "Tesla",
+      "type": "bev",
+      "brand_id": "f37896c3-6bc5-45e1-b442-b9cbc38e3a7c",
+      "model": "Model X",
+      "release_year": 2016,
+      "variant": "P90D",
+      "usable_battery_size": 90.0,
+      "ac_charger": {
+        "usable_phases": 3,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 11.0,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.4,
+          "11": 11.0,
+          "16": 11.0,
+          "22": 11.0,
+          "43": 11.0
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs",
+          "chademo",
+          "tesla_suc"
+        ],
+        "max_power": 140,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 125
+          },
+          {
+            "percentage": 43,
+            "power": 140
+          },
+          {
+            "percentage": 80,
+            "power": 37
+          },
+          {
+            "percentage": 100,
+            "power": 12
+          }
+        ],
+        "is_default_charging_curve": false
+      },
+      "energy_consumption": {
+        "average_consumption": 21.0
+      }
+    },
+    {
+      "id": "355eadbb-0c97-4a66-993d-8fdc61a77ef5",
+      "brand": "Tesla",
+      "type": "bev",
+      "brand_id": "f37896c3-6bc5-45e1-b442-b9cbc38e3a7c",
+      "model": "Model X",
+      "release_year": 2019,
+      "variant": "Performance",
+      "usable_battery_size": 100.0,
+      "ac_charger": {
+        "usable_phases": 3,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 16.5,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.4,
+          "11": 11.100000000000001,
+          "16": 16.200000000000003,
+          "22": 16.5,
+          "43": 16.5
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs",
+          "chademo",
+          "tesla_suc"
+        ],
+        "max_power": 140,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 125
+          },
+          {
+            "percentage": 43,
+            "power": 140
+          },
+          {
+            "percentage": 80,
+            "power": 37
+          },
+          {
+            "percentage": 100,
+            "power": 12
+          }
+        ],
+        "is_default_charging_curve": false
+      },
+      "energy_consumption": {
+        "average_consumption": 22.0
+      }
+    },
+    {
+      "id": "7490520f-fe11-4148-a9b6-3882f06ee082",
+      "brand": "Tesla",
+      "type": "bev",
+      "brand_id": "f37896c3-6bc5-45e1-b442-b9cbc38e3a7c",
+      "model": "Model X",
+      "release_year": 2017,
+      "variant": "100D",
+      "usable_battery_size": 100.0,
+      "ac_charger": {
+        "usable_phases": 3,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 16.5,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.4,
+          "11": 11.100000000000001,
+          "16": 16.200000000000003,
+          "22": 16.5,
+          "43": 16.5
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs",
+          "chademo",
+          "tesla_suc"
+        ],
+        "max_power": 140,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 125
+          },
+          {
+            "percentage": 43,
+            "power": 140
+          },
+          {
+            "percentage": 80,
+            "power": 37
+          },
+          {
+            "percentage": 100,
+            "power": 12
+          }
+        ],
+        "is_default_charging_curve": false
+      },
+      "energy_consumption": {
+        "average_consumption": 20.0
+      }
+    },
+    {
+      "id": "eb8d28ec-8df7-40a8-8dd7-badf738f0832",
+      "brand": "Tesla",
+      "type": "bev",
+      "brand_id": "f37896c3-6bc5-45e1-b442-b9cbc38e3a7c",
+      "model": "Model X",
+      "release_year": 2019,
+      "variant": "Maximum Range",
+      "usable_battery_size": 100.0,
+      "ac_charger": {
+        "usable_phases": 3,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 16.5,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.4,
+          "11": 11.100000000000001,
+          "16": 16.200000000000003,
+          "22": 16.5,
+          "43": 16.5
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs",
+          "chademo",
+          "tesla_suc"
+        ],
+        "max_power": 140,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 125
+          },
+          {
+            "percentage": 43,
+            "power": 140
+          },
+          {
+            "percentage": 80,
+            "power": 37
+          },
+          {
+            "percentage": 100,
+            "power": 12
+          }
+        ],
+        "is_default_charging_curve": false
+      },
+      "energy_consumption": {
+        "average_consumption": 20.0
+      }
+    },
+    {
+      "id": "b7c4ddb8-4806-4328-a4e6-4abb4746016d",
+      "brand": "Tesla",
+      "type": "bev",
+      "brand_id": "f37896c3-6bc5-45e1-b442-b9cbc38e3a7c",
+      "model": "Model X",
+      "release_year": 2019,
+      "variant": "Standard Range",
+      "usable_battery_size": 75.0,
+      "ac_charger": {
+        "usable_phases": 3,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 16.5,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.4,
+          "11": 11.100000000000001,
+          "16": 16.200000000000003,
+          "22": 16.5,
+          "43": 16.5
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs",
+          "chademo",
+          "tesla_suc"
+        ],
+        "max_power": 140,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 125
+          },
+          {
+            "percentage": 43,
+            "power": 140
+          },
+          {
+            "percentage": 80,
+            "power": 37
+          },
+          {
+            "percentage": 100,
+            "power": 12
+          }
+        ],
+        "is_default_charging_curve": false
+      },
+      "energy_consumption": {
+        "average_consumption": 20.0
+      }
+    },
+    {
+      "id": "1b3105fa-527a-491f-ac26-5bfa94bfa45d",
+      "brand": "Tesla",
+      "type": "bev",
+      "brand_id": "f37896c3-6bc5-45e1-b442-b9cbc38e3a7c",
+      "model": "Model X",
+      "release_year": 2019,
+      "variant": "75D",
+      "usable_battery_size": 75.0,
+      "ac_charger": {
+        "usable_phases": 3,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 16.5,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.4,
+          "11": 11.100000000000001,
+          "16": 16.200000000000003,
+          "22": 16.5,
+          "43": 16.5
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs",
+          "chademo",
+          "tesla_suc"
+        ],
+        "max_power": 140,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 125
+          },
+          {
+            "percentage": 43,
+            "power": 140
+          },
+          {
+            "percentage": 80,
+            "power": 37
+          },
+          {
+            "percentage": 100,
+            "power": 12
+          }
+        ],
+        "is_default_charging_curve": false
+      },
+      "energy_consumption": {
+        "average_consumption": 20.0
+      }
+    },
+    {
+      "id": "92ffd46c-fe26-4805-81ba-fbadce4d524f",
+      "brand": "Tesla",
+      "type": "bev",
+      "brand_id": "f37896c3-6bc5-45e1-b442-b9cbc38e3a7c",
+      "model": "Model X",
+      "release_year": 2016,
+      "variant": "60D",
+      "usable_battery_size": 60.0,
+      "ac_charger": {
+        "usable_phases": 3,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 11.0,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.4,
+          "11": 11.0,
+          "16": 11.0,
+          "22": 11.0,
+          "43": 11.0
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs",
+          "chademo",
+          "tesla_suc"
+        ],
+        "max_power": 140,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 125
+          },
+          {
+            "percentage": 43,
+            "power": 140
+          },
+          {
+            "percentage": 80,
+            "power": 37
+          },
+          {
+            "percentage": 100,
+            "power": 12
+          }
+        ],
+        "is_default_charging_curve": false
+      },
+      "energy_consumption": {
+        "average_consumption": 16.0
+      }
+    },
+    {
+      "id": "f1b46b0a-b101-4072-a246-0b52f0cc51f5",
+      "brand": "Volkswagen",
+      "type": "bev",
+      "brand_id": "481793f5-c8b0-4dc9-b3d4-cc615085ac07",
+      "model": "e-Golf",
+      "release_year": 2014,
+      "variant": "CCS",
+      "usable_battery_size": 21.2,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 3.6,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.6,
+          "7.4": 3.6,
+          "11": 3.6,
+          "16": 3.6,
+          "22": 3.6,
+          "43": 3.6
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs"
+        ],
+        "max_power": 44,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 40
+          },
+          {
+            "percentage": 76,
+            "power": 44
+          },
+          {
+            "percentage": 81,
+            "power": 25
+          },
+          {
+            "percentage": 93,
+            "power": 16
+          },
+          {
+            "percentage": 100,
+            "power": 8
+          }
+        ],
+        "is_default_charging_curve": false
+      },
+      "energy_consumption": {
+        "average_consumption": 15.8
+      }
+    },
+    {
+      "id": "f0132135-9415-4403-818b-cee07f81ceb2",
+      "brand": "Volkswagen",
+      "type": "bev",
+      "brand_id": "481793f5-c8b0-4dc9-b3d4-cc615085ac07",
+      "model": "e-Golf",
+      "release_year": 2017,
+      "variant": "CCS",
+      "usable_battery_size": 31.5,
+      "ac_charger": {
+        "usable_phases": 2,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 7.2,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.2,
+          "11": 7.2,
+          "16": 7.2,
+          "22": 7.2,
+          "43": 7.2
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs"
+        ],
+        "max_power": 40,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 39
+          },
+          {
+            "percentage": 60,
+            "power": 40
+          },
+          {
+            "percentage": 80,
+            "power": 37
+          },
+          {
+            "percentage": 100,
+            "power": 10
+          }
+        ],
+        "is_default_charging_curve": false
+      },
+      "energy_consumption": {
+        "average_consumption": 16.4
+      }
+    },
+    {
+      "id": "a0347619-a7fe-4dd2-be4e-3ef615783481",
+      "brand": "Volkswagen",
+      "type": "bev",
+      "brand_id": "481793f5-c8b0-4dc9-b3d4-cc615085ac07",
+      "model": "e-up",
+      "release_year": 2013,
+      "variant": "CCS",
+      "usable_battery_size": 16.5,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 3.6,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.6,
+          "7.4": 3.6,
+          "11": 3.6,
+          "16": 3.6,
+          "22": 3.6,
+          "43": 3.6
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs"
+        ],
+        "max_power": 44,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 40
+          },
+          {
+            "percentage": 76,
+            "power": 44
+          },
+          {
+            "percentage": 81,
+            "power": 25
+          },
+          {
+            "percentage": 93,
+            "power": 16
+          },
+          {
+            "percentage": 100,
+            "power": 8
+          }
+        ],
+        "is_default_charging_curve": false
+      },
+      "energy_consumption": {
+        "average_consumption": 16.8
+      }
+    },
+    {
+      "id": "fda95cb7-d391-4344-851e-a1b5a548b42b",
+      "brand": "Volkswagen",
+      "type": "bev",
+      "brand_id": "481793f5-c8b0-4dc9-b3d4-cc615085ac07",
+      "model": "e-Golf",
+      "release_year": 2014,
+      "variant": "",
+      "usable_battery_size": 21.2,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 3.6,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.6,
+          "7.4": 3.6,
+          "11": 3.6,
+          "16": 3.6,
+          "22": 3.6,
+          "43": 3.6
+        }
+      },
+      "dc_charger": null,
+      "energy_consumption": {
+        "average_consumption": 15.8
+      }
+    },
+    {
+      "id": "bad55b90-4b4f-4760-83ea-fa96280e7310",
+      "brand": "Volkswagen",
+      "type": "bev",
+      "brand_id": "481793f5-c8b0-4dc9-b3d4-cc615085ac07",
+      "model": "e-Golf",
+      "release_year": 2017,
+      "variant": "",
+      "usable_battery_size": 31.5,
+      "ac_charger": {
+        "usable_phases": 2,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 7.2,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.2,
+          "11": 7.2,
+          "16": 7.2,
+          "22": 7.2,
+          "43": 7.2
+        }
+      },
+      "dc_charger": null,
+      "energy_consumption": {
+        "average_consumption": 16.4
+      }
+    },
+    {
+      "id": "bcd8700d-241c-43a1-b9df-24ee310ea8e4",
+      "brand": "Volkswagen",
+      "type": "bev",
+      "brand_id": "481793f5-c8b0-4dc9-b3d4-cc615085ac07",
+      "model": "e-up",
+      "release_year": 2013,
+      "variant": "",
+      "usable_battery_size": 16.5,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 3.6,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.6,
+          "7.4": 3.6,
+          "11": 3.6,
+          "16": 3.6,
+          "22": 3.6,
+          "43": 3.6
+        }
+      },
+      "dc_charger": null,
+      "energy_consumption": {
+        "average_consumption": 16.8
+      }
+    },
+    {
+      "id": "57184038-ae77-4540-9367-ccb98beb8cc3",
+      "brand": "Volkswagen",
+      "type": "bev",
+      "brand_id": "481793f5-c8b0-4dc9-b3d4-cc615085ac07",
+      "model": "e-up",
+      "release_year": 2020,
+      "variant": "",
+      "usable_battery_size": 32.3,
+      "ac_charger": {
+        "usable_phases": 2,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 7.2,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.2,
+          "11": 7.2,
+          "16": 7.2,
+          "22": 7.2,
+          "43": 7.2
+        }
+      },
+      "dc_charger": null,
+      "energy_consumption": {
+        "average_consumption": 16.6
+      }
+    },
+    {
+      "id": "fc5b3c94-c0eb-4515-af3d-4a4106ffe29f",
+      "brand": "Volkswagen",
+      "type": "bev",
+      "brand_id": "481793f5-c8b0-4dc9-b3d4-cc615085ac07",
+      "model": "e-up",
+      "release_year": 2020,
+      "variant": "CCS",
+      "usable_battery_size": 32.3,
+      "ac_charger": {
+        "usable_phases": 2,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 7.2,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.2,
+          "11": 7.2,
+          "16": 7.2,
+          "22": 7.2,
+          "43": 7.2
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs"
+        ],
+        "max_power": 34,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 32
+          },
+          {
+            "percentage": 27,
+            "power": 34
+          },
+          {
+            "percentage": 80,
+            "power": 14
+          },
+          {
+            "percentage": 100,
+            "power": 7
+          }
+        ],
+        "is_default_charging_curve": false
+      },
+      "energy_consumption": {
+        "average_consumption": 16.6
+      }
+    },
+    {
+      "id": "0a7e79c1-ecd6-4639-bac1-9c9e49fec84c",
+      "brand": "Volkswagen",
+      "type": "bev",
+      "brand_id": "481793f5-c8b0-4dc9-b3d4-cc615085ac07",
+      "model": "ID.3",
+      "release_year": 2020,
+      "variant": "Standard Range",
+      "usable_battery_size": 45.0,
+      "ac_charger": {
+        "usable_phases": 2,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 7.2,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.2,
+          "11": 7.2,
+          "16": 7.2,
+          "22": 7.2,
+          "43": 7.2
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs"
+        ],
+        "max_power": 50.0,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 47
+          },
+          {
+            "percentage": 75,
+            "power": 50.0
+          },
+          {
+            "percentage": 100,
+            "power": 7.2
+          }
+        ],
+        "is_default_charging_curve": true
+      },
+      "energy_consumption": {
+        "average_consumption": 16.4
+      }
+    },
+    {
+      "id": "d8044adf-2538-4d45-b2d8-2b2fd0951766",
+      "brand": "Volkswagen",
+      "type": "bev",
+      "brand_id": "481793f5-c8b0-4dc9-b3d4-cc615085ac07",
+      "model": "ID.3",
+      "release_year": 2020,
+      "variant": "Mid Range",
+      "usable_battery_size": 58.0,
+      "ac_charger": {
+        "usable_phases": 3,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 11.0,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.4,
+          "11": 11.0,
+          "16": 11.0,
+          "22": 11.0,
+          "43": 11.0
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs"
+        ],
+        "max_power": 100.0,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 95
+          },
+          {
+            "percentage": 75,
+            "power": 100.0
+          },
+          {
+            "percentage": 100,
+            "power": 11.0
+          }
+        ],
+        "is_default_charging_curve": true
+      },
+      "energy_consumption": {
+        "average_consumption": 16.6
+      }
+    },
+    {
+      "id": "cb995cc3-84d9-4c87-89dc-f9dee7a47156",
+      "brand": "Volkswagen",
+      "type": "bev",
+      "brand_id": "481793f5-c8b0-4dc9-b3d4-cc615085ac07",
+      "model": "ID.3",
+      "release_year": 2020,
+      "variant": "Long Range",
+      "usable_battery_size": 77.0,
+      "ac_charger": {
+        "usable_phases": 3,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 11.0,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.4,
+          "11": 11.0,
+          "16": 11.0,
+          "22": 11.0,
+          "43": 11.0
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs"
+        ],
+        "max_power": 125.0,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 118
+          },
+          {
+            "percentage": 75,
+            "power": 125.0
+          },
+          {
+            "percentage": 100,
+            "power": 11.0
+          }
+        ],
+        "is_default_charging_curve": true
+      },
+      "energy_consumption": {
+        "average_consumption": 17.1
+      }
+    },
+    {
+      "id": "15023eb9-eba6-436e-ad98-2086f1cb31c4",
+      "brand": "Volkswagen",
+      "type": "phev",
+      "brand_id": "481793f5-c8b0-4dc9-b3d4-cc615085ac07",
+      "model": "Golf GTE",
+      "release_year": 2017,
+      "variant": "",
+      "usable_battery_size": 8.7,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 3.7,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 3.7,
+          "11": 3.7,
+          "16": 3.7,
+          "22": 3.7,
+          "43": 3.7
+        }
+      },
+      "dc_charger": null,
+      "energy_consumption": {
+        "average_consumption": 11.4
+      }
+    },
+    {
+      "id": "ec3b0af7-67c6-400d-b3c2-aa2f3be24c8a",
+      "brand": "Volkswagen",
+      "type": "phev",
+      "brand_id": "481793f5-c8b0-4dc9-b3d4-cc615085ac07",
+      "model": "Passat GTE",
+      "release_year": 2019,
+      "variant": "",
+      "usable_battery_size": 13.1,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 3.7,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 3.7,
+          "11": 3.7,
+          "16": 3.7,
+          "22": 3.7,
+          "43": 3.7
+        }
+      },
+      "dc_charger": null,
+      "energy_consumption": {
+        "average_consumption": 16.2
+      }
+    },
+    {
+      "id": "926efa33-4c55-43df-80f3-4b8d2d65a00a",
+      "brand": "Peugeot",
+      "type": "bev",
+      "brand_id": "f458fe7d-f545-45f3-8c23-2ab8140b8b5d",
+      "model": "e-208",
+      "release_year": 2020,
+      "variant": "7,2 kW-AC",
+      "usable_battery_size": 47.5,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 7.4,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.4,
+          "11": 3.7,
+          "16": 5.4,
+          "22": 7.4,
+          "43": 7.4
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs"
+        ],
+        "max_power": 97,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 97
+          },
+          {
+            "percentage": 16,
+            "power": 97
+          },
+          {
+            "percentage": 17,
+            "power": 78
+          },
+          {
+            "percentage": 46,
+            "power": 78
+          },
+          {
+            "percentage": 47,
+            "power": 52
+          },
+          {
+            "percentage": 68,
+            "power": 52
+          },
+          {
+            "percentage": 69,
+            "power": 27
+          },
+          {
+            "percentage": 83,
+            "power": 27
+          },
+          {
+            "percentage": 84,
+            "power": 11
+          },
+          {
+            "percentage": 100,
+            "power": 11
+          }
+        ],
+        "is_default_charging_curve": false
+      },
+      "energy_consumption": {
+        "average_consumption": 16.1
+      }
+    },
+    {
+      "id": "de7bac96-33ed-44f2-964e-21a4878e9f00",
+      "brand": "Peugeot",
+      "type": "bev",
+      "brand_id": "f458fe7d-f545-45f3-8c23-2ab8140b8b5d",
+      "model": "e-208",
+      "release_year": 2020,
+      "variant": "11 kW-AC",
+      "usable_battery_size": 47.5,
+      "ac_charger": {
+        "usable_phases": 3,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 11.0,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.4,
+          "11": 11.0,
+          "16": 11.0,
+          "22": 11.0,
+          "43": 11.0
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs"
+        ],
+        "max_power": 97,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 97
+          },
+          {
+            "percentage": 16,
+            "power": 97
+          },
+          {
+            "percentage": 17,
+            "power": 78
+          },
+          {
+            "percentage": 46,
+            "power": 78
+          },
+          {
+            "percentage": 47,
+            "power": 52
+          },
+          {
+            "percentage": 68,
+            "power": 52
+          },
+          {
+            "percentage": 69,
+            "power": 27
+          },
+          {
+            "percentage": 83,
+            "power": 27
+          },
+          {
+            "percentage": 84,
+            "power": 11
+          },
+          {
+            "percentage": 100,
+            "power": 11
+          }
+        ],
+        "is_default_charging_curve": false
+      },
+      "energy_consumption": {
+        "average_consumption": 16.1
+      }
+    },
+    {
+      "id": "72695d36-29c4-4726-8ca8-5333fb3f9865",
+      "brand": "Peugeot",
+      "type": "bev",
+      "brand_id": "f458fe7d-f545-45f3-8c23-2ab8140b8b5d",
+      "model": "e-2008",
+      "release_year": 2020,
+      "variant": "7,2 kW-AC",
+      "usable_battery_size": 47.5,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 7.4,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.4,
+          "11": 3.7,
+          "16": 5.4,
+          "22": 7.4,
+          "43": 7.4
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs"
+        ],
+        "max_power": 97,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 97
+          },
+          {
+            "percentage": 16,
+            "power": 97
+          },
+          {
+            "percentage": 17,
+            "power": 78
+          },
+          {
+            "percentage": 46,
+            "power": 78
+          },
+          {
+            "percentage": 47,
+            "power": 52
+          },
+          {
+            "percentage": 68,
+            "power": 52
+          },
+          {
+            "percentage": 69,
+            "power": 27
+          },
+          {
+            "percentage": 83,
+            "power": 27
+          },
+          {
+            "percentage": 84,
+            "power": 11
+          },
+          {
+            "percentage": 100,
+            "power": 11
+          }
+        ],
+        "is_default_charging_curve": false
+      },
+      "energy_consumption": {
+        "average_consumption": 18.0
+      }
+    },
+    {
+      "id": "9d101a26-eaaa-4058-a251-5221b45ffd91",
+      "brand": "Peugeot",
+      "type": "bev",
+      "brand_id": "f458fe7d-f545-45f3-8c23-2ab8140b8b5d",
+      "model": "e-2008",
+      "release_year": 2020,
+      "variant": "11 kW-AC",
+      "usable_battery_size": 47.5,
+      "ac_charger": {
+        "usable_phases": 3,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 11.0,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.4,
+          "11": 11.0,
+          "16": 11.0,
+          "22": 11.0,
+          "43": 11.0
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs"
+        ],
+        "max_power": 100.0,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 95
+          },
+          {
+            "percentage": 75,
+            "power": 100.0
+          },
+          {
+            "percentage": 100,
+            "power": 11.0
+          }
+        ],
+        "is_default_charging_curve": true
+      },
+      "energy_consumption": {
+        "average_consumption": 18.0
+      }
+    },
+    {
+      "id": "e60a8ec6-a6dd-46ae-846a-35cb57f1d8e3",
+      "brand": "Peugeot",
+      "type": "bev",
+      "brand_id": "f458fe7d-f545-45f3-8c23-2ab8140b8b5d",
+      "model": "Partner",
+      "release_year": null,
+      "variant": "",
+      "usable_battery_size": 22.5,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type1"
+        ],
+        "max_power": 3.2,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.2,
+          "7.4": 3.2,
+          "11": 3.2,
+          "16": 3.2,
+          "22": 3.2,
+          "43": 3.2
+        }
+      },
+      "dc_charger": null,
+      "energy_consumption": {
+        "average_consumption": 20.5
+      }
+    },
+    {
+      "id": "1cec7821-632f-4f17-8a58-644b6ab23f44",
+      "brand": "Opel",
+      "type": "bev",
+      "brand_id": "3500fb3e-bd2c-478e-ae5e-ac9ee490594b",
+      "model": "Corsa-e",
+      "release_year": 2020,
+      "variant": "7,2 kW-AC",
+      "usable_battery_size": 47.5,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 7.4,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.4,
+          "11": 3.7,
+          "16": 5.4,
+          "22": 7.4,
+          "43": 7.4
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs"
+        ],
+        "max_power": 97,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 97
+          },
+          {
+            "percentage": 16,
+            "power": 97
+          },
+          {
+            "percentage": 17,
+            "power": 78
+          },
+          {
+            "percentage": 46,
+            "power": 78
+          },
+          {
+            "percentage": 47,
+            "power": 52
+          },
+          {
+            "percentage": 68,
+            "power": 52
+          },
+          {
+            "percentage": 69,
+            "power": 27
+          },
+          {
+            "percentage": 83,
+            "power": 27
+          },
+          {
+            "percentage": 84,
+            "power": 11
+          },
+          {
+            "percentage": 100,
+            "power": 11
+          }
+        ],
+        "is_default_charging_curve": false
+      },
+      "energy_consumption": {
+        "average_consumption": 16.4
+      }
+    },
+    {
+      "id": "6f96c616-e87a-4958-bbe7-b4278be00170",
+      "brand": "Opel",
+      "type": "bev",
+      "brand_id": "3500fb3e-bd2c-478e-ae5e-ac9ee490594b",
+      "model": "Corsa-e",
+      "release_year": 2020,
+      "variant": "11 kW-AC",
+      "usable_battery_size": 47.5,
+      "ac_charger": {
+        "usable_phases": 3,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 11.0,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.4,
+          "11": 11.0,
+          "16": 11.0,
+          "22": 11.0,
+          "43": 11.0
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs"
+        ],
+        "max_power": 97,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 97
+          },
+          {
+            "percentage": 16,
+            "power": 97
+          },
+          {
+            "percentage": 17,
+            "power": 78
+          },
+          {
+            "percentage": 46,
+            "power": 78
+          },
+          {
+            "percentage": 47,
+            "power": 52
+          },
+          {
+            "percentage": 68,
+            "power": 52
+          },
+          {
+            "percentage": 69,
+            "power": 27
+          },
+          {
+            "percentage": 83,
+            "power": 27
+          },
+          {
+            "percentage": 84,
+            "power": 11
+          },
+          {
+            "percentage": 100,
+            "power": 11
+          }
+        ],
+        "is_default_charging_curve": false
+      },
+      "energy_consumption": {
+        "average_consumption": 16.4
+      }
+    },
+    {
+      "id": "e8773876-6036-4a6c-926e-5490aae58971",
+      "brand": "Citroen",
+      "type": "bev",
+      "brand_id": "3b3fc191-f4c3-45da-bc3b-21efbe1b264f",
+      "model": "Berlingo Electric",
+      "release_year": null,
+      "variant": "",
+      "usable_battery_size": 22.5,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type1"
+        ],
+        "max_power": 3.2,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.2,
+          "7.4": 3.2,
+          "11": 3.2,
+          "16": 3.2,
+          "22": 3.2,
+          "43": 3.2
+        }
+      },
+      "dc_charger": null,
+      "energy_consumption": {
+        "average_consumption": 17.7
+      }
+    },
+    {
+      "id": "8cfce5f4-23b6-470a-87fa-a04095fe0334",
+      "brand": "Mini",
+      "type": "phev",
+      "brand_id": "6d9d9248-de4a-4b13-976b-4e9f6688b0b1",
+      "model": "Countryman ALL4",
+      "release_year": 2019,
+      "variant": "",
+      "usable_battery_size": 7.6,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 3.6,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.6,
+          "7.4": 3.6,
+          "11": 3.6,
+          "16": 3.6,
+          "22": 3.6,
+          "43": 3.6
+        }
+      },
+      "dc_charger": null,
+      "energy_consumption": {
+        "average_consumption": 13.2
+      }
+    },
+    {
+      "id": "d8c11860-a582-4784-9e58-d29e94a67fc2",
+      "brand": "Mini",
+      "type": "bev",
+      "brand_id": "6d9d9248-de4a-4b13-976b-4e9f6688b0b1",
+      "model": "Cooper SE",
+      "release_year": 2020,
+      "variant": "",
+      "usable_battery_size": 28.9,
+      "ac_charger": {
+        "usable_phases": 3,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 11.0,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.4,
+          "11": 11.0,
+          "16": 11.0,
+          "22": 11.0,
+          "43": 11.0
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs"
+        ],
+        "max_power": 50.0,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 47
+          },
+          {
+            "percentage": 75,
+            "power": 50.0
+          },
+          {
+            "percentage": 100,
+            "power": 11.0
+          }
+        ],
+        "is_default_charging_curve": true
+      },
+      "energy_consumption": {
+        "average_consumption": 16.1
+      }
+    },
+    {
+      "id": "5bfa9a87-7b35-4e3a-bd3f-dc2ac55e184b",
+      "brand": "Honda",
+      "type": "bev",
+      "brand_id": "9ca5e092-76e2-4868-afc1-c06abeedf81b",
+      "model": "e",
+      "release_year": 2020,
+      "variant": "",
+      "usable_battery_size": 32.0,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 6.6,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 6.6,
+          "11": 3.7,
+          "16": 5.4,
+          "22": 6.6,
+          "43": 6.6
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs"
+        ],
+        "max_power": 60.0,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 57
+          },
+          {
+            "percentage": 75,
+            "power": 60.0
+          },
+          {
+            "percentage": 100,
+            "power": 6.6
+          }
+        ],
+        "is_default_charging_curve": true
+      },
+      "energy_consumption": {
+        "average_consumption": 16.0
+      }
+    },
+    {
+      "id": "4c04db3b-c493-4b90-9859-21b7304a4ffc",
+      "brand": "Porsche",
+      "type": "bev",
+      "brand_id": "68e11a25-d316-4d22-9444-45c7306c8ab7",
+      "model": "Taycan",
+      "release_year": 2020,
+      "variant": "Turbo S",
+      "usable_battery_size": 83.7,
+      "ac_charger": {
+        "usable_phases": 3,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 11.0,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.4,
+          "11": 11.0,
+          "16": 11.0,
+          "22": 11.0,
+          "43": 11.0
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs"
+        ],
+        "max_power": 270.0,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 256
+          },
+          {
+            "percentage": 75,
+            "power": 270.0
+          },
+          {
+            "percentage": 100,
+            "power": 11.0
+          }
+        ],
+        "is_default_charging_curve": true
+      },
+      "energy_consumption": {
+        "average_consumption": 22.3
+      }
+    },
+    {
+      "id": "34b5ef32-efea-48fc-8386-3800d0b737f0",
+      "brand": "Porsche",
+      "type": "bev",
+      "brand_id": "68e11a25-d316-4d22-9444-45c7306c8ab7",
+      "model": "Taycan",
+      "release_year": 2020,
+      "variant": "4S",
+      "usable_battery_size": 71.0,
+      "ac_charger": {
+        "usable_phases": 3,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 11.0,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.4,
+          "11": 11.0,
+          "16": 11.0,
+          "22": 11.0,
+          "43": 11.0
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs"
+        ],
+        "max_power": 225.0,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 213
+          },
+          {
+            "percentage": 75,
+            "power": 225.0
+          },
+          {
+            "percentage": 100,
+            "power": 11.0
+          }
+        ],
+        "is_default_charging_curve": true
+      },
+      "energy_consumption": {
+        "average_consumption": 19.5
+      }
+    },
+    {
+      "id": "6990914a-6a0d-49d4-87f5-ee86ee33344c",
+      "brand": "Porsche",
+      "type": "bev",
+      "brand_id": "68e11a25-d316-4d22-9444-45c7306c8ab7",
+      "model": "Taycan",
+      "release_year": 2020,
+      "variant": "4S Plus",
+      "usable_battery_size": 83.7,
+      "ac_charger": {
+        "usable_phases": 3,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 11.0,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.4,
+          "11": 11.0,
+          "16": 11.0,
+          "22": 11.0,
+          "43": 11.0
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs"
+        ],
+        "max_power": 270.0,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 256
+          },
+          {
+            "percentage": 75,
+            "power": 270.0
+          },
+          {
+            "percentage": 100,
+            "power": 11.0
+          }
+        ],
+        "is_default_charging_curve": true
+      },
+      "energy_consumption": {
+        "average_consumption": 19.7
+      }
+    },
+    {
+      "id": "a12f033f-f2c2-44bd-b62c-7019898a72d0",
+      "brand": "Porsche",
+      "type": "bev",
+      "brand_id": "68e11a25-d316-4d22-9444-45c7306c8ab7",
+      "model": "Taycan",
+      "release_year": 2020,
+      "variant": "Turbo ",
+      "usable_battery_size": 83.7,
+      "ac_charger": {
+        "usable_phases": 3,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 11.0,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.4,
+          "11": 11.0,
+          "16": 11.0,
+          "22": 11.0,
+          "43": 11.0
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs"
+        ],
+        "max_power": 270.0,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 256
+          },
+          {
+            "percentage": 75,
+            "power": 270.0
+          },
+          {
+            "percentage": 100,
+            "power": 11.0
+          }
+        ],
+        "is_default_charging_curve": true
+      },
+      "energy_consumption": {
+        "average_consumption": 21.5
+      }
+    },
+    {
+      "id": "8b0195b6-5318-46d9-a6fd-1b5f75e8b495",
+      "brand": "MG",
+      "type": "bev",
+      "brand_id": "5663b87a-d940-4bab-9846-d74c8c0ae260",
+      "model": "ZS EV",
+      "release_year": 2020,
+      "variant": "",
+      "usable_battery_size": 44.5,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 6.6,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 6.6,
+          "11": 3.7,
+          "16": 5.4,
+          "22": 6.6,
+          "43": 6.6
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs"
+        ],
+        "max_power": 55.0,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 52
+          },
+          {
+            "percentage": 75,
+            "power": 55.0
+          },
+          {
+            "percentage": 100,
+            "power": 6.6
+          }
+        ],
+        "is_default_charging_curve": true
+      },
+      "energy_consumption": {
+        "average_consumption": 19.8
+      }
+    },
+    {
+      "id": "2ae110f8-8906-4b03-b4bc-83e5577c1cc1",
+      "brand": "Maxus",
+      "type": "bev",
+      "brand_id": "171a1e6d-8cbc-41a9-a8bb-e05b7ee98889",
+      "model": "EV80",
+      "release_year": 2018,
+      "variant": "",
+      "usable_battery_size": 56.0,
+      "ac_charger": {
+        "usable_phases": 2,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 6.6,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 6.6,
+          "11": 6.6,
+          "16": 6.6,
+          "22": 6.6,
+          "43": 6.6
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs"
+        ],
+        "max_power": 28.0,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 26
+          },
+          {
+            "percentage": 75,
+            "power": 28.0
+          },
+          {
+            "percentage": 100,
+            "power": 6.6
+          }
+        ],
+        "is_default_charging_curve": true
+      },
+      "energy_consumption": {
+        "average_consumption": 35.0
+      }
+    },
+    {
+      "id": "c9025ab4-1c85-40d8-86ab-ee406de3b716",
+      "brand": "Polestar",
+      "type": "bev",
+      "brand_id": "391f000f-d9d1-4c13-b744-95f0b9c8a2e1",
+      "model": "2",
+      "release_year": 2020,
+      "variant": "",
+      "usable_battery_size": 72.5,
+      "ac_charger": {
+        "usable_phases": 3,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 11.0,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.4,
+          "11": 11.0,
+          "16": 11.0,
+          "22": 11.0,
+          "43": 11.0
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs"
+        ],
+        "max_power": 150.0,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 142
+          },
+          {
+            "percentage": 75,
+            "power": 150.0
+          },
+          {
+            "percentage": 100,
+            "power": 11.0
+          }
+        ],
+        "is_default_charging_curve": true
+      },
+      "energy_consumption": {
+        "average_consumption": 17.1
+      }
+    },
+    {
+      "id": "2eea1ef2-0fd1-481d-adee-68044666614e",
+      "brand": "Seat",
+      "type": "bev",
+      "brand_id": "91c527ff-aa74-4dbb-9091-36fb5ddd44b6",
+      "model": "Mii Electric",
+      "release_year": 2020,
+      "variant": "CCS",
+      "usable_battery_size": 32.3,
+      "ac_charger": {
+        "usable_phases": 2,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 7.2,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.2,
+          "11": 7.2,
+          "16": 7.2,
+          "22": 7.2,
+          "43": 7.2
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs"
+        ],
+        "max_power": 34,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 32
+          },
+          {
+            "percentage": 27,
+            "power": 34
+          },
+          {
+            "percentage": 80,
+            "power": 14
+          },
+          {
+            "percentage": 100,
+            "power": 7
+          }
+        ],
+        "is_default_charging_curve": false
+      },
+      "energy_consumption": {
+        "average_consumption": 16.6
+      }
+    },
+    {
+      "id": "ffcd3116-4e17-49ff-a926-941c062643ea",
+      "brand": "Skoda",
+      "type": "bev",
+      "brand_id": "43763587-6999-406b-8843-28977e1b82c3",
+      "model": "CITIGOe iV",
+      "release_year": 2020,
+      "variant": "CCS",
+      "usable_battery_size": 32.3,
+      "ac_charger": {
+        "usable_phases": 2,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 7.2,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.2,
+          "11": 7.2,
+          "16": 7.2,
+          "22": 7.2,
+          "43": 7.2
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs"
+        ],
+        "max_power": 34,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 32
+          },
+          {
+            "percentage": 27,
+            "power": 34
+          },
+          {
+            "percentage": 80,
+            "power": 14
+          },
+          {
+            "percentage": 100,
+            "power": 7
+          }
+        ],
+        "is_default_charging_curve": false
+      },
+      "energy_consumption": {
+        "average_consumption": 16.6
+      }
+    },
+    {
+      "id": "3b5bb8d1-0f34-4c05-861c-45d19a8883b9",
+      "brand": "DS",
+      "type": "bev",
+      "brand_id": "37bfdacf-1aca-4eb7-8daa-8dc5b14c59e9",
+      "model": "3 Crossback E-Tense",
+      "release_year": 2020,
+      "variant": "7,2 kW-AC",
+      "usable_battery_size": 46.0,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 7.4,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.4,
+          "11": 3.7,
+          "16": 5.4,
+          "22": 7.4,
+          "43": 7.4
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs"
+        ],
+        "max_power": 100.0,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 95
+          },
+          {
+            "percentage": 75,
+            "power": 100.0
+          },
+          {
+            "percentage": 100,
+            "power": 7.4
+          }
+        ],
+        "is_default_charging_curve": true
+      },
+      "energy_consumption": {
+        "average_consumption": 18.4
+      }
+    },
+    {
+      "id": "430ca2cd-bd4b-482a-8776-85a8c7d3435c",
+      "brand": "DS",
+      "type": "bev",
+      "brand_id": "37bfdacf-1aca-4eb7-8daa-8dc5b14c59e9",
+      "model": "3 Crossback E-Tense",
+      "release_year": 2020,
+      "variant": "11 kW-AC",
+      "usable_battery_size": 46.0,
+      "ac_charger": {
+        "usable_phases": 3,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 11.0,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.4,
+          "11": 11.0,
+          "16": 11.0,
+          "22": 11.0,
+          "43": 11.0
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs"
+        ],
+        "max_power": 100.0,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 95
+          },
+          {
+            "percentage": 75,
+            "power": 100.0
+          },
+          {
+            "percentage": 100,
+            "power": 11.0
+          }
+        ],
+        "is_default_charging_curve": true
+      },
+      "energy_consumption": {
+        "average_consumption": 18.4
+      }
+    },
+    {
+      "id": "6033b26c-1b3c-441b-9f78-7b7cd5512051",
+      "brand": "Aiways",
+      "type": "bev",
+      "brand_id": "a43d2607-eead-46c2-9fd5-2ebd3c49d895",
+      "model": "U5",
+      "release_year": 2020,
+      "variant": "",
+      "usable_battery_size": 63.0,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 6.6,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 6.6,
+          "11": 3.7,
+          "16": 5.4,
+          "22": 6.6,
+          "43": 6.6
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs"
+        ],
+        "max_power": 100.0,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 95
+          },
+          {
+            "percentage": 75,
+            "power": 100.0
+          },
+          {
+            "percentage": 100,
+            "power": 6.6
+          }
+        ],
+        "is_default_charging_curve": true
+      },
+      "energy_consumption": {
+        "average_consumption": 18.8
+      }
+    },
+    {
+      "id": "d97748b1-e384-4238-a225-d498bccd902c",
+      "brand": "Artega",
+      "type": "bev",
+      "brand_id": "97d0d03a-63c6-4f33-99d7-6e944f71d7c5",
+      "model": "Karo",
+      "release_year": 2020,
+      "variant": "Range",
+      "usable_battery_size": 8.0,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 4.0,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 4.0,
+          "11": 3.7,
+          "16": 4.0,
+          "22": 4.0,
+          "43": 4.0
+        }
+      },
+      "dc_charger": null,
+      "energy_consumption": {
+        "average_consumption": 6.4
+      }
+    },
+    {
+      "id": "1c9126d4-24d6-4e9f-a49d-15813fa49728",
+      "brand": "Artega",
+      "type": "bev",
+      "brand_id": "97d0d03a-63c6-4f33-99d7-6e944f71d7c5",
+      "model": "Karo",
+      "release_year": 2020,
+      "variant": "Range Plus",
+      "usable_battery_size": 14.4,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 4.0,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 4.0,
+          "11": 3.7,
+          "16": 4.0,
+          "22": 4.0,
+          "43": 4.0
+        }
+      },
+      "dc_charger": null,
+      "energy_consumption": {
+        "average_consumption": 7.2
+      }
+    },
+    {
+      "id": "98aacbc9-5a97-4fe4-abcf-4f7bb2910a9f",
+      "brand": "e.GO Mobile",
+      "type": "bev",
+      "brand_id": "771bb157-23a2-4917-908c-810d241718d5",
+      "model": "Life 60",
+      "release_year": 2019,
+      "variant": "",
+      "usable_battery_size": 21.0,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 3.6,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.6,
+          "7.4": 3.6,
+          "11": 3.6,
+          "16": 3.6,
+          "22": 3.6,
+          "43": 3.6
+        }
+      },
+      "dc_charger": null,
+      "energy_consumption": {
+        "average_consumption": 15.5
+      }
+    },
+    {
+      "id": "4f408d10-82c3-4850-ae2b-141f21d745b3",
+      "brand": "e.GO Mobile",
+      "type": "bev",
+      "brand_id": "771bb157-23a2-4917-908c-810d241718d5",
+      "model": "Life 40",
+      "release_year": 2019,
+      "variant": "",
+      "usable_battery_size": 17.5,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 3.6,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.6,
+          "7.4": 3.6,
+          "11": 3.6,
+          "16": 3.6,
+          "22": 3.6,
+          "43": 3.6
+        }
+      },
+      "dc_charger": null,
+      "energy_consumption": {
+        "average_consumption": 15.5
+      }
+    },
+    {
+      "id": "975b064b-626e-4318-b60c-3ce0729743fd",
+      "brand": "e.GO Mobile",
+      "type": "bev",
+      "brand_id": "771bb157-23a2-4917-908c-810d241718d5",
+      "model": "Life 20",
+      "release_year": 2019,
+      "variant": "",
+      "usable_battery_size": 14.5,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 3.6,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.6,
+          "7.4": 3.6,
+          "11": 3.6,
+          "16": 3.6,
+          "22": 3.6,
+          "43": 3.6
+        }
+      },
+      "dc_charger": null,
+      "energy_consumption": {
+        "average_consumption": 15.5
+      }
+    },
+    {
+      "id": "ac812f08-3c8a-4af5-a07a-b520ec9e16cc",
+      "brand": "Volvo",
+      "type": "phev",
+      "brand_id": "2e55ea02-c829-4256-94fd-ffc971a1dd8e",
+      "model": "XC 60 T8",
+      "release_year": 2018,
+      "variant": "",
+      "usable_battery_size": 10.4,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 3.7,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 3.7,
+          "11": 3.7,
+          "16": 3.7,
+          "22": 3.7,
+          "43": 3.7
+        }
+      },
+      "dc_charger": null,
+      "energy_consumption": {
+        "average_consumption": 24.5
+      }
+    },
+    {
+      "id": "4ea0fb0a-8d77-4a03-a147-5e962f8ea766",
+      "brand": "Ford",
+      "type": "phev",
+      "brand_id": "6cf9e9b6-28aa-44c7-b6c3-438d518ac12f",
+      "model": "Kuga",
+      "release_year": 2020,
+      "variant": "PHEV",
+      "usable_battery_size": 14.4,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 3.7,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 3.7,
+          "11": 3.7,
+          "16": 3.7,
+          "22": 3.7,
+          "43": 3.7
+        }
+      },
+      "dc_charger": null,
+      "energy_consumption": {
+        "average_consumption": 19.0
+      }
+    },
+    {
+      "id": "176af738-f385-4dc8-9243-9c701fbd7759",
+      "brand": "Mazda",
+      "type": "bev",
+      "brand_id": "9b829849-1219-48b8-964e-90ddc1a4fa85",
+      "model": "MX-30",
+      "release_year": 2020,
+      "variant": "",
+      "usable_battery_size": 32.0,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 6.6,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 6.6,
+          "11": 3.7,
+          "16": 5.4,
+          "22": 6.6,
+          "43": 6.6
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs"
+        ],
+        "max_power": 50.0,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 47
+          },
+          {
+            "percentage": 75,
+            "power": 50.0
+          },
+          {
+            "percentage": 100,
+            "power": 6.6
+          }
+        ],
+        "is_default_charging_curve": true
+      },
+      "energy_consumption": {
+        "average_consumption": 17.8
+      }
+    },
+    {
+      "id": "b8a76fa8-97f1-4f27-8f9f-80f26df230d1",
+      "brand": "Chevrolet",
+      "type": "bev",
+      "brand_id": "cbca5847-9b23-47d9-80d3-24fa9a8ca21a",
+      "model": "Bolt",
+      "release_year": 2017,
+      "variant": "60 kWh",
+      "usable_battery_size": 58.0,
+      "ac_charger": {
+        "usable_phases": 2,
+        "ports": [
+          "type1",
+          "type2"
+        ],
+        "max_power": 7.2,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.2,
+          "11": 7.2,
+          "16": 7.2,
+          "22": 7.2,
+          "43": 7.2
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs"
+        ],
+        "max_power": 55,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 55
+          },
+          {
+            "percentage": 56,
+            "power": 38
+          },
+          {
+            "percentage": 68,
+            "power": 24
+          },
+          {
+            "percentage": 85,
+            "power": 16
+          },
+          {
+            "percentage": 100,
+            "power": 0
+          }
+        ],
+        "is_default_charging_curve": false
+      },
+      "energy_consumption": {
+        "average_consumption": 12.9
+      }
+    },
+    {
+      "id": "7508892b-e7e7-42ba-9cca-57753426cd86",
+      "brand": "Chevrolet",
+      "type": "bev",
+      "brand_id": "cbca5847-9b23-47d9-80d3-24fa9a8ca21a",
+      "model": "Spark EV",
+      "release_year": 2013,
+      "variant": "21 kWh",
+      "usable_battery_size": 21.3,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type1"
+        ],
+        "max_power": 3.3,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.3,
+          "7.4": 3.3,
+          "11": 3.3,
+          "16": 3.3,
+          "22": 3.3,
+          "43": 3.3
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs"
+        ],
+        "max_power": 50.0,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 47
+          },
+          {
+            "percentage": 75,
+            "power": 50.0
+          },
+          {
+            "percentage": 100,
+            "power": 3.3
+          }
+        ],
+        "is_default_charging_curve": true
+      },
+      "energy_consumption": {
+        "average_consumption": 16.0
+      }
+    },
+    {
+      "id": "6a4c5e58-d1cb-49ad-a1cf-c0025fb7246f",
+      "brand": "Chevrolet",
+      "type": "bev",
+      "brand_id": "cbca5847-9b23-47d9-80d3-24fa9a8ca21a",
+      "model": "Spark EV",
+      "release_year": 2015,
+      "variant": "19 kWh",
+      "usable_battery_size": 19.0,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type1"
+        ],
+        "max_power": 3.3,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.3,
+          "7.4": 3.3,
+          "11": 3.3,
+          "16": 3.3,
+          "22": 3.3,
+          "43": 3.3
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs"
+        ],
+        "max_power": 50.0,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 47
+          },
+          {
+            "percentage": 75,
+            "power": 50.0
+          },
+          {
+            "percentage": 100,
+            "power": 3.3
+          }
+        ],
+        "is_default_charging_curve": true
+      },
+      "energy_consumption": {
+        "average_consumption": 14.0
+      }
+    },
+    {
+      "id": "09022e0a-c322-46e7-9171-b48fdd953cca",
+      "brand": "Peugeot",
+      "type": "phev",
+      "brand_id": "f458fe7d-f545-45f3-8c23-2ab8140b8b5d",
+      "model": "3008",
+      "release_year": 2020,
+      "variant": "HYbrid4 3,7 kW-AC",
+      "usable_battery_size": 11.2,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type1"
+        ],
+        "max_power": 3.7,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 3.7,
+          "11": 3.7,
+          "16": 3.7,
+          "22": 3.7,
+          "43": 3.7
+        }
+      },
+      "dc_charger": null,
+      "energy_consumption": {
+        "average_consumption": 15.2
+      }
+    },
+    {
+      "id": "7ba60564-7eda-457b-b7d5-46dd1b15cc0e",
+      "brand": "Peugeot",
+      "type": "phev",
+      "brand_id": "f458fe7d-f545-45f3-8c23-2ab8140b8b5d",
+      "model": "3008",
+      "release_year": 2020,
+      "variant": "HYbrid4 7,4 kW-AC",
+      "usable_battery_size": 11.2,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type1"
+        ],
+        "max_power": 7.4,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.4,
+          "11": 3.7,
+          "16": 5.4,
+          "22": 7.4,
+          "43": 7.4
+        }
+      },
+      "dc_charger": null,
+      "energy_consumption": {
+        "average_consumption": 15.2
+      }
+    },
+    {
+      "id": "f45de10a-764f-4a7e-9591-b974d0b87038",
+      "brand": "Mercedes Benz",
+      "type": "phev",
+      "brand_id": "b2282fbe-f5d9-48d9-943f-a9b66ec51423",
+      "model": "A 250 e",
+      "release_year": 2020,
+      "variant": "3,7 kW-AC",
+      "usable_battery_size": 10.7,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 3.7,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 3.7,
+          "11": 3.7,
+          "16": 3.7,
+          "22": 3.7,
+          "43": 3.7
+        }
+      },
+      "dc_charger": null,
+      "energy_consumption": {
+        "average_consumption": 15.0
+      }
+    },
+    {
+      "id": "46240342-6f7e-4767-b66d-3234ba874a30",
+      "brand": "Mercedes Benz",
+      "type": "phev",
+      "brand_id": "b2282fbe-f5d9-48d9-943f-a9b66ec51423",
+      "model": "A 250 e",
+      "release_year": 2020,
+      "variant": "7,4 kW-AC",
+      "usable_battery_size": 10.7,
+      "ac_charger": {
+        "usable_phases": 2,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 7.4,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.4,
+          "11": 7.4,
+          "16": 7.4,
+          "22": 7.4,
+          "43": 7.4
+        }
+      },
+      "dc_charger": null,
+      "energy_consumption": {
+        "average_consumption": 15.0
+      }
+    },
+    {
+      "id": "1e8c0cc5-20db-491f-9242-12cf3bc7b962",
+      "brand": "Mercedes Benz",
+      "type": "phev",
+      "brand_id": "b2282fbe-f5d9-48d9-943f-a9b66ec51423",
+      "model": "A 250 e",
+      "release_year": 2020,
+      "variant": "7,4 kW-AC + DC",
+      "usable_battery_size": 10.7,
+      "ac_charger": {
+        "usable_phases": 2,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 7.4,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.4,
+          "11": 7.4,
+          "16": 7.4,
+          "22": 7.4,
+          "43": 7.4
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs"
+        ],
+        "max_power": 24.0,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 22
+          },
+          {
+            "percentage": 75,
+            "power": 24.0
+          },
+          {
+            "percentage": 100,
+            "power": 7.4
+          }
+        ],
+        "is_default_charging_curve": true
+      },
+      "energy_consumption": {
+        "average_consumption": 15.0
+      }
+    },
+    {
+      "id": "ee64213e-fa1d-425e-b90e-6cff9c2a3469",
+      "brand": "DS",
+      "type": "phev",
+      "brand_id": "37bfdacf-1aca-4eb7-8daa-8dc5b14c59e9",
+      "model": "7 Crossback",
+      "release_year": 2020,
+      "variant": "E-Tense 4X4 PHEV",
+      "usable_battery_size": 13.2,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 7.4,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.4,
+          "11": 3.7,
+          "16": 5.4,
+          "22": 7.4,
+          "43": 7.4
+        }
+      },
+      "dc_charger": null,
+      "energy_consumption": {
+        "average_consumption": 17.4
+      }
+    },
+    {
+      "id": "b97f749b-5361-4116-8103-c208dc601a0b",
+      "brand": "Kia",
+      "type": "phev",
+      "brand_id": "3337d5f0-39de-4ded-831b-843dfec1ebbd",
+      "model": "Ceed SW",
+      "release_year": 2020,
+      "variant": "PHEV",
+      "usable_battery_size": 8.9,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 3.3,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.3,
+          "7.4": 3.3,
+          "11": 3.3,
+          "16": 3.3,
+          "22": 3.3,
+          "43": 3.3
+        }
+      },
+      "dc_charger": null,
+      "energy_consumption": {
+        "average_consumption": 11.3
+      }
+    },
+    {
+      "id": "84f2fcc1-cc73-4919-8d76-0f1ba8eaf685",
+      "brand": "Kia",
+      "type": "phev",
+      "brand_id": "3337d5f0-39de-4ded-831b-843dfec1ebbd",
+      "model": "XCeed",
+      "release_year": 2020,
+      "variant": "PHEV",
+      "usable_battery_size": 8.9,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 3.3,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.3,
+          "7.4": 3.3,
+          "11": 3.3,
+          "16": 3.3,
+          "22": 3.3,
+          "43": 3.3
+        }
+      },
+      "dc_charger": null,
+      "energy_consumption": {
+        "average_consumption": 11.3
+      }
+    },
+    {
+      "id": "a883bb35-270d-4f31-9169-ccf06ae3c0c5",
+      "brand": "Kia",
+      "type": "phev",
+      "brand_id": "3337d5f0-39de-4ded-831b-843dfec1ebbd",
+      "model": "Niro",
+      "release_year": 2020,
+      "variant": "PHEV",
+      "usable_battery_size": 8.9,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 3.3,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.3,
+          "7.4": 3.3,
+          "11": 3.3,
+          "16": 3.3,
+          "22": 3.3,
+          "43": 3.3
+        }
+      },
+      "dc_charger": null,
+      "energy_consumption": {
+        "average_consumption": 9.8
+      }
+    },
+    {
+      "id": "6fa12374-6162-451e-8464-5e0e73091839",
+      "brand": "Renault",
+      "type": "phev",
+      "brand_id": "c0d8a60c-34b8-44fe-8af7-9eeb62eedb4b",
+      "model": "Captur E-Tech",
+      "release_year": 2020,
+      "variant": "PHEV",
+      "usable_battery_size": 9.8,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 3.0,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.0,
+          "7.4": 3.0,
+          "11": 3.0,
+          "16": 3.0,
+          "22": 3.0,
+          "43": 3.0
+        }
+      },
+      "dc_charger": null,
+      "energy_consumption": {
+        "average_consumption": 17.4
+      }
+    },
+    {
+      "id": "b0da6660-c20e-40c3-9db7-0b19c478c6cb",
+      "brand": "Mercedes Benz",
+      "type": "phev",
+      "brand_id": "b2282fbe-f5d9-48d9-943f-a9b66ec51423",
+      "model": "GLC 300 de 4MATIC",
+      "release_year": 2020,
+      "variant": "PHEV",
+      "usable_battery_size": 13.5,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 7.4,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.4,
+          "11": 3.7,
+          "16": 5.4,
+          "22": 7.4,
+          "43": 7.4
+        }
+      },
+      "dc_charger": null,
+      "energy_consumption": {
+        "average_consumption": 18.2
+      }
+    },
+    {
+      "id": "41c9d96c-6a19-4db0-ba3a-931ab99c6f15",
+      "brand": "Skoda",
+      "type": "phev",
+      "brand_id": "43763587-6999-406b-8843-28977e1b82c3",
+      "model": "Superb iV",
+      "release_year": 2020,
+      "variant": "PHEV",
+      "usable_battery_size": 13.0,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 3.6,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.6,
+          "7.4": 3.6,
+          "11": 3.6,
+          "16": 3.6,
+          "22": 3.6,
+          "43": 3.6
+        }
+      },
+      "dc_charger": null,
+      "energy_consumption": {
+        "average_consumption": 14.0
+      }
+    },
+    {
+      "id": "ff261470-8556-4051-afec-c049abd5fe6a",
+      "brand": "Skoda",
+      "type": "bev",
+      "brand_id": "43763587-6999-406b-8843-28977e1b82c3",
+      "model": "Enyaq iV",
+      "release_year": 2020,
+      "variant": "55 kWh",
+      "usable_battery_size": 52.0,
+      "ac_charger": {
+        "usable_phases": 2,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 7.2,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.2,
+          "11": 7.2,
+          "16": 7.2,
+          "22": 7.2,
+          "43": 7.2
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs"
+        ],
+        "max_power": 50.0,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 47
+          },
+          {
+            "percentage": 75,
+            "power": 50.0
+          },
+          {
+            "percentage": 100,
+            "power": 7.2
+          }
+        ],
+        "is_default_charging_curve": true
+      },
+      "energy_consumption": {
+        "average_consumption": 18.7
+      }
+    },
+    {
+      "id": "4dc6b014-8612-4fa7-bb34-9ea4d7fa5220",
+      "brand": "Skoda",
+      "type": "bev",
+      "brand_id": "43763587-6999-406b-8843-28977e1b82c3",
+      "model": "Enyaq iV",
+      "release_year": 2020,
+      "variant": "62 kWh 50 kW-DC",
+      "usable_battery_size": 58.0,
+      "ac_charger": {
+        "usable_phases": 3,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 11.0,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.4,
+          "11": 11.0,
+          "16": 11.0,
+          "22": 11.0,
+          "43": 11.0
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs"
+        ],
+        "max_power": 50.0,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 47
+          },
+          {
+            "percentage": 75,
+            "power": 50.0
+          },
+          {
+            "percentage": 100,
+            "power": 11.0
+          }
+        ],
+        "is_default_charging_curve": true
+      },
+      "energy_consumption": {
+        "average_consumption": 18.7
+      }
+    },
+    {
+      "id": "55ac0aaf-6bae-4a8e-ba50-4a9a7ab5b4af",
+      "brand": "Skoda",
+      "type": "bev",
+      "brand_id": "43763587-6999-406b-8843-28977e1b82c3",
+      "model": "Enyaq iV",
+      "release_year": 2020,
+      "variant": "62 kWh 100 kW-DC",
+      "usable_battery_size": 58.0,
+      "ac_charger": {
+        "usable_phases": 3,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 11.0,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.4,
+          "11": 11.0,
+          "16": 11.0,
+          "22": 11.0,
+          "43": 11.0
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs"
+        ],
+        "max_power": 100.0,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 95
+          },
+          {
+            "percentage": 75,
+            "power": 100.0
+          },
+          {
+            "percentage": 100,
+            "power": 11.0
+          }
+        ],
+        "is_default_charging_curve": true
+      },
+      "energy_consumption": {
+        "average_consumption": 18.7
+      }
+    },
+    {
+      "id": "18bb40bd-321b-4326-a404-e46652538830",
+      "brand": "Skoda",
+      "type": "bev",
+      "brand_id": "43763587-6999-406b-8843-28977e1b82c3",
+      "model": "Enyaq iV",
+      "release_year": 2020,
+      "variant": "82 kWh 50 kW-DC",
+      "usable_battery_size": 77.0,
+      "ac_charger": {
+        "usable_phases": 3,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 11.0,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.4,
+          "11": 11.0,
+          "16": 11.0,
+          "22": 11.0,
+          "43": 11.0
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs"
+        ],
+        "max_power": 50.0,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 47
+          },
+          {
+            "percentage": 75,
+            "power": 50.0
+          },
+          {
+            "percentage": 100,
+            "power": 11.0
+          }
+        ],
+        "is_default_charging_curve": true
+      },
+      "energy_consumption": {
+        "average_consumption": 19.0
+      }
+    },
+    {
+      "id": "aa69b5e8-fc4e-40f8-8060-2c96248f62ef",
+      "brand": "Skoda",
+      "type": "bev",
+      "brand_id": "43763587-6999-406b-8843-28977e1b82c3",
+      "model": "Enyaq iV",
+      "release_year": 2020,
+      "variant": "82 kWh 125 kW-DC",
+      "usable_battery_size": 77.0,
+      "ac_charger": {
+        "usable_phases": 3,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 11.0,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.4,
+          "11": 11.0,
+          "16": 11.0,
+          "22": 11.0,
+          "43": 11.0
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs"
+        ],
+        "max_power": 125.0,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 118
+          },
+          {
+            "percentage": 75,
+            "power": 125.0
+          },
+          {
+            "percentage": 100,
+            "power": 11.0
+          }
+        ],
+        "is_default_charging_curve": true
+      },
+      "energy_consumption": {
+        "average_consumption": 19.0
+      }
+    },
+    {
+      "id": "8b51a06f-676a-46aa-9074-4d3364ea1cca",
+      "brand": "Mercedes Benz",
+      "type": "phev",
+      "brand_id": "b2282fbe-f5d9-48d9-943f-a9b66ec51423",
+      "model": "GLE",
+      "release_year": 2020,
+      "variant": "350 de/e",
+      "usable_battery_size": 31.2,
+      "ac_charger": {
+        "usable_phases": 1,
+        "ports": [
+          "type2"
+        ],
+        "max_power": 7.4,
+        "power_per_charging_point": {
+          "2.0": 2.0,
+          "2.3": 2.3,
+          "3.7": 3.7,
+          "7.4": 7.4,
+          "11": 3.7,
+          "16": 5.4,
+          "22": 7.4,
+          "43": 7.4
+        }
+      },
+      "dc_charger": {
+        "ports": [
+          "ccs"
+        ],
+        "max_power": 60.0,
+        "charging_curve": [
+          {
+            "percentage": 0,
+            "power": 57
+          },
+          {
+            "percentage": 75,
+            "power": 60.0
+          },
+          {
+            "percentage": 100,
+            "power": 7.4
+          }
+        ],
+        "is_default_charging_curve": true
+      },
+      "energy_consumption": {
+        "average_consumption": 31.2
+      }
+    }
+  ],
+  "brands": [
+    {
+      "id": "89c2668c-0c50-4344-9386-93e4000f7673",
+      "name": "Audi"
+    },
+    {
+      "id": "0742668c-bf59-4191-890e-2b0883508808",
+      "name": "BMW"
+    },
+    {
+      "id": "3b3fc191-f4c3-45da-bc3b-21efbe1b264f",
+      "name": "Citroen"
+    },
+    {
+      "id": "3291e5ba-862c-49fa-8437-71105743875e",
+      "name": "Fiat"
+    },
+    {
+      "id": "6cf9e9b6-28aa-44c7-b6c3-438d518ac12f",
+      "name": "Ford"
+    },
+    {
+      "id": "9771afb8-9e25-4ae6-a5b3-b2a5b9f363f0",
+      "name": "Hyundai"
+    },
+    {
+      "id": "61fc79a2-04ca-418e-9333-caf5f67ba02f",
+      "name": "Jaguar"
+    },
+    {
+      "id": "3337d5f0-39de-4ded-831b-843dfec1ebbd",
+      "name": "Kia"
+    },
+    {
+      "id": "b2282fbe-f5d9-48d9-943f-a9b66ec51423",
+      "name": "Mercedes Benz"
+    },
+    {
+      "id": "3cf8cf51-60ac-4cac-9f25-131c21eda12e",
+      "name": "Mitsubishi"
+    },
+    {
+      "id": "dab5a47a-e8ce-4d34-9139-0701499205b1",
+      "name": "Nissan"
+    },
+    {
+      "id": "3500fb3e-bd2c-478e-ae5e-ac9ee490594b",
+      "name": "Opel"
+    },
+    {
+      "id": "f458fe7d-f545-45f3-8c23-2ab8140b8b5d",
+      "name": "Peugeot"
+    },
+    {
+      "id": "c0d8a60c-34b8-44fe-8af7-9eeb62eedb4b",
+      "name": "Renault"
+    },
+    {
+      "id": "a462c115-33b4-438b-b590-bc4a33382d1c",
+      "name": "smart"
+    },
+    {
+      "id": "f37896c3-6bc5-45e1-b442-b9cbc38e3a7c",
+      "name": "Tesla"
+    },
+    {
+      "id": "481793f5-c8b0-4dc9-b3d4-cc615085ac07",
+      "name": "Volkswagen"
+    },
+    {
+      "id": "6d9d9248-de4a-4b13-976b-4e9f6688b0b1",
+      "name": "Mini"
+    },
+    {
+      "id": "9ca5e092-76e2-4868-afc1-c06abeedf81b",
+      "name": "Honda"
+    },
+    {
+      "id": "68e11a25-d316-4d22-9444-45c7306c8ab7",
+      "name": "Porsche"
+    },
+    {
+      "id": "5663b87a-d940-4bab-9846-d74c8c0ae260",
+      "name": "MG"
+    },
+    {
+      "id": "171a1e6d-8cbc-41a9-a8bb-e05b7ee98889",
+      "name": "Maxus"
+    },
+    {
+      "id": "391f000f-d9d1-4c13-b744-95f0b9c8a2e1",
+      "name": "Polestar"
+    },
+    {
+      "id": "43763587-6999-406b-8843-28977e1b82c3",
+      "name": "Skoda"
+    },
+    {
+      "id": "91c527ff-aa74-4dbb-9091-36fb5ddd44b6",
+      "name": "Seat"
+    },
+    {
+      "id": "37bfdacf-1aca-4eb7-8daa-8dc5b14c59e9",
+      "name": "DS"
+    },
+    {
+      "id": "a43d2607-eead-46c2-9fd5-2ebd3c49d895",
+      "name": "Aiways"
+    },
+    {
+      "id": "97d0d03a-63c6-4f33-99d7-6e944f71d7c5",
+      "name": "Artega"
+    },
+    {
+      "id": "771bb157-23a2-4917-908c-810d241718d5",
+      "name": "e.GO Mobile"
+    },
+    {
+      "id": "2e55ea02-c829-4256-94fd-ffc971a1dd8e",
+      "name": "Volvo"
+    },
+    {
+      "id": "9b829849-1219-48b8-964e-90ddc1a4fa85",
+      "name": "Mazda"
+    },
+    {
+      "id": "cbca5847-9b23-47d9-80d3-24fa9a8ca21a",
+      "name": "Chevrolet"
+    }
+  ],
+  "meta": {
+    "updated_at": "2020-10-27T19:15:56Z",
+    "overall_count": 143
+  }
+}

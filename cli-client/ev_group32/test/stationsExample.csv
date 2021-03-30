@@ -1,0 +1,3 @@
+car, point, start_date, end_date, current_kilometers, energy_delivered, energy_provider_used, protocol, payment
+603fc33c96cb412104a506f7, 603fc33c96cb412104a50848, 2020-10-27T19:15:56Z, 2020-10-28T19:15:56Z, 10, 1, 603fc33c96cb412104a506e0, fast, PayPal
+603fc33c96cb412104a506f8, 603fc33d96cb412104a50849, 2020-11-27T19:15:56Z, 2020-11-28T19:15:56Z, 10, 1, 603fc33c96cb412104a506e0, fast, Bank Card

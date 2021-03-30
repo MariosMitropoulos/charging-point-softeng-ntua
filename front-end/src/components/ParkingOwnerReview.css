@@ -1,0 +1,8 @@
+.review {
+    background: rgba(255, 70, 0, 0.1);
+    padding: 10px;
+    border-radius: 3px;
+    box-shadow: 1px 1px 3px 0px rgb(0, 0, 0);
+    margin-top: 20px;
+    margin-bottom: 20px;
+}

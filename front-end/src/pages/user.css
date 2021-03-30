@@ -1,0 +1,11 @@
+.item {
+    display: inline;
+}
+
+a:hover {
+    color: orangered;
+}
+
+.active {
+    color: orangered;
+}

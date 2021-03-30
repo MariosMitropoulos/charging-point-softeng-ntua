@@ -1,0 +1,70 @@
+{
+  "name": "ev_group32",
+  "description": "The cli-client of Charging Point",
+  "version": "1.0.0",
+  "author": "Softeng-32",
+  "bin": {
+    "ev_group32": "./bin/run"
+  },
+  "bugs": "https://github.com/ntua/TL20-32/issues",
+  "dependencies": {
+    "@oclif/command": "^1.8.0",
+    "@oclif/config": "^1.17.0",
+    "@oclif/plugin-help": "^3.2.2",
+    "axios": "^0.21.1",
+    "body-parser": "^1.19.0",
+    "chai": "^4.3.3",
+    "chai-http": "^4.3.0",
+    "chalk": "^4.1.0",
+    "config": "^3.3.4",
+    "dayjs": "^1.10.4",
+    "express": "^4.17.1",
+    "faker": "^5.4.0",
+    "form-data": "^4.0.0",
+    "fs": "0.0.1-security",
+    "https": "^1.0.0",
+    "mocha-suppress-logs": "^0.2.0",
+    "mongoose": "^5.11.19",
+    "oclif": "^1.16.1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "@oclif/dev-cli": "^1.26.0",
+    "@oclif/test": "^1.2.8",
+    "eslint": "^5.16.0",
+    "eslint-config-oclif": "^3.1.0",
+    "globby": "^10.0.2",
+    "mocha": "^5.2.0",
+    "nyc": "^14.1.1"
+  },
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "files": [
+    "/bin",
+    "/npm-shrinkwrap.json",
+    "/oclif.manifest.json",
+    "/src"
+  ],
+  "homepage": "https://github.com/ntua/TL20-32",
+  "keywords": [
+    "oclif"
+  ],
+  "license": "MIT",
+  "main": "src/index.js",
+  "oclif": {
+    "commands": "./src/commands",
+    "bin": "ev_group32",
+    "plugins": [
+      "@oclif/plugin-help"
+    ]
+  },
+  "repository": "ntua/TL20-32",
+  "scripts": {
+    "postpack": "rm -f oclif.manifest.json",
+    "posttest": "eslint .",
+    "prepack": "oclif-dev manifest && oclif-dev readme",
+    "test": "NODE_ENV=test cd \"../../back-end\" && npm run testServer & mocha \"test/**/*.test.js\" --exit ; killall node",
+    "version": "oclif-dev readme && git add README.md"
+  }
+}

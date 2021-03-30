@@ -1,0 +1,17 @@
+{
+    "BASE_URL": "host-adress",
+    "DATABASE_URL": "database-adress/(dev?test)",
+    "DEFAULT_USER_NAME": "user",
+    "DEFAULT_USER_PASSWORD": "password",
+    "PORT": 8765,
+    "TESTPORT": 8768,
+    "dummyAdminsCount": 3,
+    "dummyAverageSessionsPerPoint": 4,
+    "dummyElectricalOperatorsCount": 20,
+    "dummyMaxPoints": 5,
+    "dummyMaxStations": 4,
+    "dummyMaxVehicles": 3,
+    "dummyMinPoints": 5,
+    "dummyStationOwnersCount": 20,
+    "dummyVehicleOwnersCount": 70
+}
